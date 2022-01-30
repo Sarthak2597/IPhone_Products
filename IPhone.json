@@ -1,0 +1,4642 @@
+[{
+  "_id": {
+    "$oid": "61f629ec99d87cbb5ac99a0e"
+  },
+  "Product_Name": "APPLE iPhone SE (Red, 64 GB)",
+  "Actual_Price": "₹39,900",
+  "Sale_Price": "₹27,999",
+  "Offer": "29% off",
+  "Rating": 4.5,
+  "Total_Ratings": "1,41,146",
+  "No_of_Reviews": " 11,244",
+  "Space": "64 GB ",
+  "Specifications": "11.94 cm (4.7 inch) Retina HD Display12MP Rear Camera | 7MP Front CameraA13 Bionic Chip with 3rd Gen Neural Engine ProcessorWater and Dust Resistant (1 meter for Upto 30 minutes, IP67)Fast Charge CapableWireless charging (Works with Qi Chargers | Qi Chargers are Sold SeparatelyBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ec99d87cbb5ac99a0f"
+  },
+  "Product_Name": "APPLE iPhone SE (Black, 64 GB)",
+  "Actual_Price": "₹39,900",
+  "Sale_Price": "₹27,999",
+  "Offer": "29% off",
+  "Rating": 4.5,
+  "Total_Ratings": "1,41,146",
+  "No_of_Reviews": " 11,244",
+  "Space": "64 GB ",
+  "Specifications": "11.94 cm (4.7 inch) Retina HD Display12MP Rear Camera | 7MP Front CameraA13 Bionic Chip with 3rd Gen Neural Engine ProcessorWater and Dust Resistant (1 meter for Upto 30 minutes, IP67)Fast Charge CapableWireless charging (Works with Qi Chargers | Qi Chargers are Sold SeparatelyBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ec99d87cbb5ac99a10"
+  },
+  "Product_Name": "APPLE iPhone SE (White, 64 GB)",
+  "Actual_Price": "₹39,900",
+  "Sale_Price": "₹27,999",
+  "Offer": "29% off",
+  "Rating": 4.5,
+  "Total_Ratings": "1,41,146",
+  "No_of_Reviews": " 11,244",
+  "Space": "64 GB ",
+  "Specifications": "11.94 cm (4.7 inch) Retina HD Display12MP Rear Camera | 7MP Front CameraA13 Bionic Chip with 3rd Gen Neural Engine ProcessorWater and Dust Resistant (1 meter for Upto 30 minutes, IP67)Fast Charge CapableWireless charging (Works with Qi Chargers | Qi Chargers are Sold SeparatelyBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ec99d87cbb5ac99a11"
+  },
+  "Product_Name": "APPLE iPhone 12 Mini (Black, 64 GB)",
+  "Actual_Price": "₹59,900",
+  "Sale_Price": "₹41,999",
+  "Offer": "29% off",
+  "Rating": 4.5,
+  "Total_Ratings": "84,015",
+  "No_of_Reviews": " 6,743",
+  "Space": "64 GB ",
+  "Specifications": "13.72 cm (5.4 inch) Super Retina XDR Display12MP + 12MP | 12MP Front CameraA14 Bionic Chip with Next Generation Neural Engine ProcessorCeramic ShieldIndustry-leading IP68 Water ResistanceAll Screen OLED Display12MP TrueDepth Front Camera with Night Mode, 4K Dolby Vision HDR RecordingBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ec99d87cbb5ac99a12"
+  },
+  "Product_Name": "APPLE iPhone 12 (Black, 64 GB)",
+  "Actual_Price": "₹65,900",
+  "Sale_Price": "₹52,999",
+  "Offer": "19% off",
+  "Rating": 4.7,
+  "Total_Ratings": "1,56,242",
+  "No_of_Reviews": " 10,698",
+  "Space": "64 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Super Retina XDR Display12MP + 12MP | 12MP Front CameraA14 Bionic Chip with Next Generation Neural Engine ProcessorCeramic ShieldIndustry-leading IP68 Water ResistanceAll Screen OLED Display12MP TrueDepth Front Camera with Night Mode, 4K Dolby Vision HDR RecordingBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ec99d87cbb5ac99a13"
+  },
+  "Product_Name": "APPLE iPhone 12 Mini (White, 64 GB)",
+  "Actual_Price": "₹59,900",
+  "Sale_Price": "₹41,999",
+  "Offer": "29% off",
+  "Rating": 4.5,
+  "Total_Ratings": "84,015",
+  "No_of_Reviews": " 6,743",
+  "Space": "64 GB ",
+  "Specifications": "13.72 cm (5.4 inch) Super Retina XDR Display12MP + 12MP | 12MP Front CameraA14 Bionic Chip with Next Generation Neural Engine ProcessorCeramic ShieldIndustry-leading IP68 Water ResistanceAll Screen OLED Display12MP TrueDepth Front Camera with Night Mode, 4K Dolby Vision HDR RecordingBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ec99d87cbb5ac99a14"
+  },
+  "Product_Name": "APPLE iPhone 12 Mini (Blue, 64 GB)",
+  "Actual_Price": "₹59,900",
+  "Sale_Price": "₹41,999",
+  "Offer": "29% off",
+  "Rating": 4.5,
+  "Total_Ratings": "84,015",
+  "No_of_Reviews": " 6,743",
+  "Space": "64 GB ",
+  "Specifications": "13.72 cm (5.4 inch) Super Retina XDR Display12MP + 12MP | 12MP Front CameraA14 Bionic Chip with Next Generation Neural Engine ProcessorCeramic ShieldIndustry-leading IP68 Water ResistanceAll Screen OLED Display12MP TrueDepth Front Camera with Night Mode, 4K Dolby Vision HDR RecordingBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ec99d87cbb5ac99a15"
+  },
+  "Product_Name": "APPLE iPhone SE (Black, 128 GB)",
+  "Actual_Price": "₹44,900",
+  "Sale_Price": "₹32,999",
+  "Offer": "26% off",
+  "Rating": 4.5,
+  "Total_Ratings": "1,41,146",
+  "No_of_Reviews": " 11,244",
+  "Space": "128 GB ",
+  "Specifications": "11.94 cm (4.7 inch) Retina HD Display12MP Rear Camera | 7MP Front CameraA13 Bionic Chip with 3rd Gen Neural Engine ProcessorWater and Dust Resistant (1 meter for Upto 30 minutes, IP67)Fast Charge CapableWireless charging (Works with Qi Chargers | Qi Chargers are Sold SeparatelyBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ec99d87cbb5ac99a16"
+  },
+  "Product_Name": "APPLE iPhone SE (Red, 128 GB)",
+  "Actual_Price": "₹44,900",
+  "Sale_Price": "₹32,999",
+  "Offer": "26% off",
+  "Rating": 4.5,
+  "Total_Ratings": "1,41,146",
+  "No_of_Reviews": " 11,244",
+  "Space": "128 GB ",
+  "Specifications": "11.94 cm (4.7 inch) Retina HD Display12MP Rear Camera | 7MP Front CameraA13 Bionic Chip with 3rd Gen Neural Engine ProcessorWater and Dust Resistant (1 meter for Upto 30 minutes, IP67)Fast Charge CapableWireless charging (Works with Qi Chargers | Qi Chargers are Sold SeparatelyBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ec99d87cbb5ac99a17"
+  },
+  "Product_Name": "APPLE iPhone 12 (Blue, 128 GB)",
+  "Actual_Price": "₹70,900",
+  "Sale_Price": "₹64,999",
+  "Offer": "8% off",
+  "Rating": 4.7,
+  "Total_Ratings": "1,56,242",
+  "No_of_Reviews": " 10,698",
+  "Space": "128 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Super Retina XDR Display12MP + 12MP | 12MP Front CameraA14 Bionic Chip with Next Generation Neural Engine ProcessorCeramic ShieldIndustry-leading IP68 Water ResistanceAll Screen OLED Display12MP TrueDepth Front Camera with Night Mode, 4K Dolby Vision HDR RecordingBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ec99d87cbb5ac99a18"
+  },
+  "Product_Name": "APPLE iPhone 13 (Starlight, 128 GB)",
+  "Actual_Price": "₹79,900",
+  "Sale_Price": "₹74,900",
+  "Offer": "6% off",
+  "Rating": 4.7,
+  "Total_Ratings": "1,920",
+  "No_of_Reviews": " 204",
+  "Space": "128 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Super Retina XDR Display12MP + 12MP | 12MP Front CameraA15 Bionic Chip ProcessorBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ec99d87cbb5ac99a19"
+  },
+  "Product_Name": "APPLE iPhone XR (White, 128 GB)",
+  "Actual_Price": "₹52,900",
+  "Sale_Price": "₹39,999",
+  "Offer": "24% off",
+  "Rating": 4.6,
+  "Total_Ratings": "99,045",
+  "No_of_Reviews": " 8,471",
+  "Space": "128 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Display12MP Rear Camera | 7MP Front CameraA12 Bionic Chip ProcessorWater and Dust Resistant (1 meter for Upto 30 minutes, IP67)Face ID for Secure AuthenticationFast-charge CapableBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ec99d87cbb5ac99a1a"
+  },
+  "Product_Name": "APPLE iPhone 13 (Pink, 128 GB)",
+  "Actual_Price": "₹79,900",
+  "Sale_Price": "₹74,900",
+  "Offer": "6% off",
+  "Rating": 4.7,
+  "Total_Ratings": "1,920",
+  "No_of_Reviews": " 204",
+  "Space": "128 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Super Retina XDR Display12MP + 12MP | 12MP Front CameraA15 Bionic Chip ProcessorBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ec99d87cbb5ac99a1b"
+  },
+  "Product_Name": "APPLE iPhone 12 Mini (White, 128 GB)",
+  "Actual_Price": "₹64,900",
+  "Sale_Price": "₹54,999",
+  "Offer": "15% off",
+  "Rating": 4.5,
+  "Total_Ratings": "84,015",
+  "No_of_Reviews": " 6,743",
+  "Space": "128 GB ",
+  "Specifications": "13.72 cm (5.4 inch) Super Retina XDR Display12MP + 12MP | 12MP Front CameraA14 Bionic Chip with Next Generation Neural Engine ProcessorCeramic ShieldIndustry-leading IP68 Water ResistanceAll Screen OLED Display12MP TrueDepth Front Camera with Night Mode, 4K Dolby Vision HDR RecordingBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ec99d87cbb5ac99a1c"
+  },
+  "Product_Name": "APPLE iPhone 13 (Midnight, 128 GB)",
+  "Actual_Price": "₹79,900",
+  "Sale_Price": "₹74,900",
+  "Offer": "6% off",
+  "Rating": 4.7,
+  "Total_Ratings": "1,920",
+  "No_of_Reviews": " 204",
+  "Space": "128 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Super Retina XDR Display12MP + 12MP | 12MP Front CameraA15 Bionic Chip ProcessorBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ec99d87cbb5ac99a1d"
+  },
+  "Product_Name": "APPLE iPhone 13 (Blue, 128 GB)",
+  "Actual_Price": "₹79,900",
+  "Sale_Price": "₹74,900",
+  "Offer": "6% off",
+  "Rating": 4.7,
+  "Total_Ratings": "1,920",
+  "No_of_Reviews": " 204",
+  "Space": "128 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Super Retina XDR Display12MP + 12MP | 12MP Front CameraA15 Bionic Chip ProcessorBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ec99d87cbb5ac99a1e"
+  },
+  "Product_Name": "APPLE iPhone SE (White, 128 GB)",
+  "Actual_Price": "₹44,900",
+  "Sale_Price": "₹32,999",
+  "Offer": "26% off",
+  "Rating": 4.5,
+  "Total_Ratings": "1,41,146",
+  "No_of_Reviews": " 11,244",
+  "Space": "128 GB ",
+  "Specifications": "11.94 cm (4.7 inch) Retina HD Display12MP Rear Camera | 7MP Front CameraA13 Bionic Chip with 3rd Gen Neural Engine ProcessorWater and Dust Resistant (1 meter for Upto 30 minutes, IP67)Fast Charge CapableWireless charging (Works with Qi Chargers | Qi Chargers are Sold SeparatelyBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ec99d87cbb5ac99a1f"
+  },
+  "Product_Name": "APPLE iPhone 13 Mini ((PRODUCT)RED, 128 GB)",
+  "Actual_Price": "₹69,900",
+  "Sale_Price": "₹66,900",
+  "Offer": "4% off",
+  "Rating": 4.6,
+  "Total_Ratings": "272",
+  "No_of_Reviews": " 25",
+  "Space": "128 GB ",
+  "Specifications": "13.72 cm (5.4 inch) Super Retina XDR Display12MP + 12MP | 12MP Front CameraA15 Bionic Chip ProcessorBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ec99d87cbb5ac99a20"
+  },
+  "Product_Name": "APPLE iPhone 13 Mini (Starlight, 128 GB)",
+  "Actual_Price": "₹69,900",
+  "Sale_Price": "₹66,900",
+  "Offer": "4% off",
+  "Rating": 4.6,
+  "Total_Ratings": "272",
+  "No_of_Reviews": " 25",
+  "Space": "128 GB ",
+  "Specifications": "13.72 cm (5.4 inch) Super Retina XDR Display12MP + 12MP | 12MP Front CameraA15 Bionic Chip ProcessorBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ec99d87cbb5ac99a21"
+  },
+  "Product_Name": "APPLE iPhone 13 Mini (Blue, 128 GB)",
+  "Actual_Price": "₹69,900",
+  "Sale_Price": "₹66,900",
+  "Offer": "4% off",
+  "Rating": 4.6,
+  "Total_Ratings": "272",
+  "No_of_Reviews": " 25",
+  "Space": "128 GB ",
+  "Specifications": "13.72 cm (5.4 inch) Super Retina XDR Display12MP + 12MP | 12MP Front CameraA15 Bionic Chip ProcessorBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ec99d87cbb5ac99a22"
+  },
+  "Product_Name": "APPLE iPhone 13 ((PRODUCT)RED, 256 GB)",
+  "Actual_Price": "₹89,900",
+  "Sale_Price": "₹84,900",
+  "Offer": "5% off",
+  "Rating": 4.7,
+  "Total_Ratings": "1,920",
+  "No_of_Reviews": " 204",
+  "Space": "256 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Super Retina XDR Display12MP + 12MP | 12MP Front CameraA15 Bionic Chip ProcessorBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ec99d87cbb5ac99a23"
+  },
+  "Product_Name": "APPLE iPhone SE (White, 256 GB)",
+  "Actual_Price": "₹54,900",
+  "Sale_Price": "₹42,999",
+  "Offer": "21% off",
+  "Rating": 4.5,
+  "Total_Ratings": "1,41,146",
+  "No_of_Reviews": " 11,244",
+  "Space": "256 GB ",
+  "Specifications": "11.94 cm (4.7 inch) Retina HD Display12MP Rear Camera | 7MP Front CameraA13 Bionic Chip with 3rd Gen Neural Engine ProcessorWater and Dust Resistant (1 meter for Upto 30 minutes, IP67)Fast Charge CapableWireless charging (Works with Qi Chargers | Qi Chargers are Sold SeparatelyBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ec99d87cbb5ac99a24"
+  },
+  "Product_Name": "APPLE iPhone XR (Yellow, 128 GB)",
+  "Actual_Price": "₹52,900",
+  "Sale_Price": "₹39,999",
+  "Offer": "24% off",
+  "Rating": 4.6,
+  "Total_Ratings": "99,045",
+  "No_of_Reviews": " 8,471",
+  "Space": "128 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Display12MP Rear Camera | 7MP Front CameraA12 Bionic Chip ProcessorWater and Dust Resistant (1 meter for Upto 30 minutes, IP67)Face ID for Secure AuthenticationFast-charge CapableBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ec99d87cbb5ac99a25"
+  },
+  "Product_Name": "APPLE iPhone 13 Mini (Pink, 512 GB)",
+  "Actual_Price": "₹99,900",
+  "Sale_Price": "₹96,900",
+  "Offer": "3% off",
+  "Rating": 4.6,
+  "Total_Ratings": "272",
+  "No_of_Reviews": " 25",
+  "Space": "512 GB ",
+  "Specifications": "13.72 cm (5.4 inch) Super Retina XDR Display12MP + 12MP | 12MP Front CameraA15 Bionic Chip ProcessorBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ec99d87cbb5ac99a26"
+  },
+  "Product_Name": "APPLE iPhone 13 Mini (Midnight, 128 GB)",
+  "Actual_Price": "₹69,900",
+  "Sale_Price": "₹66,900",
+  "Offer": "4% off",
+  "Rating": 4.6,
+  "Total_Ratings": "272",
+  "No_of_Reviews": " 25",
+  "Space": "128 GB ",
+  "Specifications": "13.72 cm (5.4 inch) Super Retina XDR Display12MP + 12MP | 12MP Front CameraA15 Bionic Chip ProcessorBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ec99d87cbb5ac99a27"
+  },
+  "Product_Name": "APPLE iPhone 13 Mini (Blue, 256 GB)",
+  "Actual_Price": "₹79,900",
+  "Sale_Price": "₹76,900",
+  "Offer": "3% off",
+  "Rating": 4.6,
+  "Total_Ratings": "272",
+  "No_of_Reviews": " 25",
+  "Space": "256 GB ",
+  "Specifications": "13.72 cm (5.4 inch) Super Retina XDR Display12MP + 12MP | 12MP Front CameraA15 Bionic Chip ProcessorBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ec99d87cbb5ac99a28"
+  },
+  "Product_Name": "APPLE iPhone 13 Pro Max (Silver, 1 TB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹1,79,900",
+  "Offer": "No offer",
+  "Rating": 4.7,
+  "Total_Ratings": "652",
+  "No_of_Reviews": " 69",
+  "Space": "1 TB ",
+  "Specifications": "17.02 cm (6.7 inch) Super Retina XDR Display12MP + 12MP + 12MP | 12MP Front CameraA15 Bionic Chip ProcessorBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ec99d87cbb5ac99a29"
+  },
+  "Product_Name": "APPLE iPhone 13 Mini (Midnight, 256 GB)",
+  "Actual_Price": "₹79,900",
+  "Sale_Price": "₹76,900",
+  "Offer": "3% off",
+  "Rating": 4.6,
+  "Total_Ratings": "272",
+  "No_of_Reviews": " 25",
+  "Space": "256 GB ",
+  "Specifications": "13.72 cm (5.4 inch) Super Retina XDR Display12MP + 12MP | 12MP Front CameraA15 Bionic Chip ProcessorBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ec99d87cbb5ac99a2a"
+  },
+  "Product_Name": "APPLE iPhone 13 Mini (Pink, 256 GB)",
+  "Actual_Price": "₹79,900",
+  "Sale_Price": "₹76,900",
+  "Offer": "3% off",
+  "Rating": 4.6,
+  "Total_Ratings": "272",
+  "No_of_Reviews": " 25",
+  "Space": "256 GB ",
+  "Specifications": "13.72 cm (5.4 inch) Super Retina XDR Display12MP + 12MP | 12MP Front CameraA15 Bionic Chip ProcessorBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ec99d87cbb5ac99a2b"
+  },
+  "Product_Name": "APPLE iPhone 13 Mini (Pink, 128 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹69,900",
+  "Offer": "No offer",
+  "Rating": 4.6,
+  "Total_Ratings": "272",
+  "No_of_Reviews": " 25",
+  "Space": "128 GB ",
+  "Specifications": "13.72 cm (5.4 inch) Super Retina XDR Display12MP + 12MP | 12MP Front CameraA15 Bionic Chip ProcessorBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ec99d87cbb5ac99a2c"
+  },
+  "Product_Name": "APPLE iPhone 12 Mini (Black, 256 GB)",
+  "Actual_Price": "₹74,900",
+  "Sale_Price": "₹64,999",
+  "Offer": "13% off",
+  "Rating": 4.5,
+  "Total_Ratings": "84,015",
+  "No_of_Reviews": " 6,743",
+  "Space": "256 GB ",
+  "Specifications": "13.72 cm (5.4 inch) Super Retina XDR Display12MP + 12MP | 12MP Front CameraA14 Bionic Chip with Next Generation Neural Engine ProcessorCeramic ShieldIndustry-leading IP68 Water ResistanceAll Screen OLED Display12MP TrueDepth Front Camera with Night Mode, 4K Dolby Vision HDR RecordingBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ec99d87cbb5ac99a2d"
+  },
+  "Product_Name": "APPLE iPhone 13 Mini (Starlight, 512 GB)",
+  "Actual_Price": "₹99,900",
+  "Sale_Price": "₹96,900",
+  "Offer": "3% off",
+  "Rating": 4.6,
+  "Total_Ratings": "272",
+  "No_of_Reviews": " 25",
+  "Space": "512 GB ",
+  "Specifications": "13.72 cm (5.4 inch) Super Retina XDR Display12MP + 12MP | 12MP Front CameraA15 Bionic Chip ProcessorBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ec99d87cbb5ac99a2e"
+  },
+  "Product_Name": "APPLE iPhone 12 Mini (Blue, 256 GB)",
+  "Actual_Price": "₹74,900",
+  "Sale_Price": "₹64,999",
+  "Offer": "13% off",
+  "Rating": 4.5,
+  "Total_Ratings": "84,015",
+  "No_of_Reviews": " 6,743",
+  "Space": "256 GB ",
+  "Specifications": "13.72 cm (5.4 inch) Super Retina XDR Display12MP + 12MP | 12MP Front CameraA14 Bionic Chip with Next Generation Neural Engine ProcessorCeramic ShieldIndustry-leading IP68 Water ResistanceAll Screen OLED Display12MP TrueDepth Front Camera with Night Mode, 4K Dolby Vision HDR RecordingBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ec99d87cbb5ac99a2f"
+  },
+  "Product_Name": "APPLE iPhone SE (Red, 256 GB)",
+  "Actual_Price": "₹54,900",
+  "Sale_Price": "₹42,999",
+  "Offer": "21% off",
+  "Rating": 4.5,
+  "Total_Ratings": "1,41,146",
+  "No_of_Reviews": " 11,244",
+  "Space": "256 GB ",
+  "Specifications": "11.94 cm (4.7 inch) Retina HD Display12MP Rear Camera | 7MP Front CameraA13 Bionic Chip with 3rd Gen Neural Engine ProcessorWater and Dust Resistant (1 meter for Upto 30 minutes, IP67)Fast Charge CapableWireless charging (Works with Qi Chargers | Qi Chargers are Sold SeparatelyBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ec99d87cbb5ac99a30"
+  },
+  "Product_Name": "APPLE iPhone SE (Black, 256 GB)",
+  "Actual_Price": "₹54,900",
+  "Sale_Price": "₹42,999",
+  "Offer": "21% off",
+  "Rating": 4.5,
+  "Total_Ratings": "1,41,146",
+  "No_of_Reviews": " 11,244",
+  "Space": "256 GB ",
+  "Specifications": "11.94 cm (4.7 inch) Retina HD Display12MP Rear Camera | 7MP Front CameraA13 Bionic Chip with 3rd Gen Neural Engine ProcessorWater and Dust Resistant (1 meter for Upto 30 minutes, IP67)Fast Charge CapableWireless charging (Works with Qi Chargers | Qi Chargers are Sold SeparatelyBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ec99d87cbb5ac99a31"
+  },
+  "Product_Name": "APPLE iPhone 12 Pro (Gold, 512 GB)",
+  "Actual_Price": "₹1,39,900",
+  "Sale_Price": "₹1,34,900",
+  "Offer": "3% off",
+  "Rating": 4.6,
+  "Total_Ratings": "1,054",
+  "No_of_Reviews": " 70",
+  "Space": "512 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Super Retina XDR Display12MP + 12MP + 12MP | 12MP Front CameraA14 Bionic Chip with Next Generation Neural Engine ProcessorCeramic Shield | Industry-leading IP68 Water ResistanceAll Screen OLED DisplayLiDAR Scanner for Improved AR Experiences, Night Mode PortraitsBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ec99d87cbb5ac99a32"
+  },
+  "Product_Name": "APPLE iPhone 12 Mini (Red, 256 GB)",
+  "Actual_Price": "₹74,900",
+  "Sale_Price": "₹64,999",
+  "Offer": "13% off",
+  "Rating": 4.5,
+  "Total_Ratings": "84,015",
+  "No_of_Reviews": " 6,743",
+  "Space": "256 GB ",
+  "Specifications": "13.72 cm (5.4 inch) Super Retina XDR Display12MP + 12MP | 12MP Front CameraA14 Bionic Chip with Next Generation Neural Engine ProcessorCeramic ShieldIndustry-leading IP68 Water ResistanceAll Screen OLED Display12MP TrueDepth Front Camera with Night Mode, 4K Dolby Vision HDR RecordingBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ec99d87cbb5ac99a33"
+  },
+  "Product_Name": "APPLE iPhone 12 Mini (Purple, 256 GB)",
+  "Actual_Price": "₹74,900",
+  "Sale_Price": "₹64,999",
+  "Offer": "13% off",
+  "Rating": 4.5,
+  "Total_Ratings": "84,015",
+  "No_of_Reviews": " 6,743",
+  "Space": "256 GB ",
+  "Specifications": "13.72 cm (5.4 inch) Super Retina XDR Display12MP + 12MP | 12MP Front CameraA14 Bionic Chip with Next Generation Neural Engine ProcessorCeramic ShieldIP68 Water ResistanceAll Screen OLED DisplayBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ec99d87cbb5ac99a34"
+  },
+  "Product_Name": "APPLE iPhone 13 Pro (Graphite, 256 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹1,29,900",
+  "Offer": "No offer",
+  "Rating": 4.7,
+  "Total_Ratings": "448",
+  "No_of_Reviews": " 42",
+  "Space": "256 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Super Retina XDR Display12MP + 12MP + 12MP | 12MP Front CameraA15 Bionic Chip ProcessorBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ec99d87cbb5ac99a35"
+  },
+  "Product_Name": "APPLE iPhone 13 Mini (Midnight, 512 GB)",
+  "Actual_Price": "₹99,900",
+  "Sale_Price": "₹96,900",
+  "Offer": "3% off",
+  "Rating": 4.6,
+  "Total_Ratings": "272",
+  "No_of_Reviews": " 25",
+  "Space": "512 GB ",
+  "Specifications": "13.72 cm (5.4 inch) Super Retina XDR Display12MP + 12MP | 12MP Front CameraA15 Bionic Chip ProcessorBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ec99d87cbb5ac99a36"
+  },
+  "Product_Name": "APPLE iPhone 13 Pro (Graphite, 128 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹1,19,900",
+  "Offer": "No offer",
+  "Rating": 4.7,
+  "Total_Ratings": "448",
+  "No_of_Reviews": " 42",
+  "Space": "128 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Super Retina XDR Display12MP + 12MP + 12MP | 12MP Front CameraA15 Bionic Chip ProcessorBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ec99d87cbb5ac99a37"
+  },
+  "Product_Name": "APPLE iPhone 13 Mini ((PRODUCT)RED, 256 GB)",
+  "Actual_Price": "₹79,900",
+  "Sale_Price": "₹76,900",
+  "Offer": "3% off",
+  "Rating": 4.6,
+  "Total_Ratings": "272",
+  "No_of_Reviews": " 25",
+  "Space": "256 GB ",
+  "Specifications": "13.72 cm (5.4 inch) Super Retina XDR Display12MP + 12MP | 12MP Front CameraA15 Bionic Chip ProcessorBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ec99d87cbb5ac99a38"
+  },
+  "Product_Name": "APPLE iPhone 13 Pro Max (Graphite, 1 TB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹1,79,900",
+  "Offer": "No offer",
+  "Rating": 4.7,
+  "Total_Ratings": "652",
+  "No_of_Reviews": " 69",
+  "Space": "1 TB ",
+  "Specifications": "17.02 cm (6.7 inch) Super Retina XDR Display12MP + 12MP + 12MP | 12MP Front CameraA15 Bionic Chip ProcessorBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ec99d87cbb5ac99a39"
+  },
+  "Product_Name": "APPLE iPhone 12 Pro Max (Pacific Blue, 128 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹1,19,900",
+  "Offer": "No offer",
+  "Rating": 4.6,
+  "Total_Ratings": "1,202",
+  "No_of_Reviews": " 98",
+  "Space": "128 GB ",
+  "Specifications": "17.02 cm (6.7 inch) Super Retina XDR Display12MP + 12MP + 12MP | 12MP Front CameraA14 Bionic Chip with Next Generation Neural Engine ProcessorCeramic Shield | Industry-leading IP68 Water ResistanceAll Screen OLED DisplayLiDAR Scanner for Improved AR Experiences, Night Mode PortraitsBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ec99d87cbb5ac99a3a"
+  },
+  "Product_Name": "APPLE iPhone 13 Pro Max (Silver, 128 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹1,29,900",
+  "Offer": "No offer",
+  "Rating": 4.7,
+  "Total_Ratings": "652",
+  "No_of_Reviews": " 69",
+  "Space": "128 GB ",
+  "Specifications": "17.02 cm (6.7 inch) Super Retina XDR Display12MP + 12MP + 12MP | 12MP Front CameraA15 Bionic Chip ProcessorBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ec99d87cbb5ac99a3b"
+  },
+  "Product_Name": "APPLE iPhone 13 Pro Max (Silver, 512 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹1,59,900",
+  "Offer": "No offer",
+  "Rating": 4.7,
+  "Total_Ratings": "652",
+  "No_of_Reviews": " 69",
+  "Space": "512 GB ",
+  "Specifications": "17.02 cm (6.7 inch) Super Retina XDR Display12MP + 12MP + 12MP | 12MP Front CameraA15 Bionic Chip ProcessorBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ec99d87cbb5ac99a3c"
+  },
+  "Product_Name": "APPLE iPhone 12 Pro (Silver, 512 GB)",
+  "Actual_Price": "₹1,39,900",
+  "Sale_Price": "₹1,34,900",
+  "Offer": "3% off",
+  "Rating": 4.6,
+  "Total_Ratings": "1,054",
+  "No_of_Reviews": " 70",
+  "Space": "512 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Super Retina XDR Display12MP + 12MP + 12MP | 12MP Front CameraA14 Bionic Chip with Next Generation Neural Engine ProcessorCeramic Shield | Industry-leading IP68 Water ResistanceAll Screen OLED DisplayLiDAR Scanner for Improved AR Experiences, Night Mode PortraitsBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ec99d87cbb5ac99a3d"
+  },
+  "Product_Name": "APPLE iPhone 13 Pro Max (Gold, 128 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹1,29,900",
+  "Offer": "No offer",
+  "Rating": 4.7,
+  "Total_Ratings": "652",
+  "No_of_Reviews": " 69",
+  "Space": "128 GB ",
+  "Specifications": "17.02 cm (6.7 inch) Super Retina XDR Display12MP + 12MP + 12MP | 12MP Front CameraA15 Bionic Chip ProcessorBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ec99d87cbb5ac99a3e"
+  },
+  "Product_Name": "APPLE iPhone 11 Pro Max (Space Grey, 64 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹1,17,100",
+  "Offer": "No offer",
+  "Rating": 4.7,
+  "Total_Ratings": "1,093",
+  "No_of_Reviews": " 100",
+  "Space": "64 GB ",
+  "Specifications": "16.51 cm (6.5 inch) Super Retina XDR Display12MP + 12MP + 12MP | 12MP Front CameraA13 Bionic Chip ProcessorBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ec99d87cbb5ac99a3f"
+  },
+  "Product_Name": "APPLE iPhone 13 (Starlight, 256 GB)",
+  "Actual_Price": "₹89,900",
+  "Sale_Price": "₹84,900",
+  "Offer": "5% off",
+  "Rating": 4.7,
+  "Total_Ratings": "1,920",
+  "No_of_Reviews": " 204",
+  "Space": "256 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Super Retina XDR Display12MP + 12MP | 12MP Front CameraA15 Bionic Chip ProcessorBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ec99d87cbb5ac99a40"
+  },
+  "Product_Name": "APPLE iPhone 13 (Blue, 256 GB)",
+  "Actual_Price": "₹89,900",
+  "Sale_Price": "₹84,900",
+  "Offer": "5% off",
+  "Rating": 4.7,
+  "Total_Ratings": "1,920",
+  "No_of_Reviews": " 204",
+  "Space": "256 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Super Retina XDR Display12MP + 12MP | 12MP Front CameraA15 Bionic Chip ProcessorBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ec99d87cbb5ac99a41"
+  },
+  "Product_Name": "APPLE iPhone 8 Plus (PRODUCT)RED (Red, 256 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹59,900",
+  "Offer": "No offer",
+  "Rating": 4.6,
+  "Total_Ratings": "270",
+  "No_of_Reviews": " 22",
+  "Space": "256 GB ",
+  "Specifications": "13.97 cm (5.5 inch) Retina HD Display12MP + 12MP | 7MP Front CameraA11 Bionic Chip with 64-bit Architecture, Neural Engine, Embedded M11 Motion Coprocessor ProcessorBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ec99d87cbb5ac99a42"
+  },
+  "Product_Name": "APPLE iPhone 12 Pro (Silver, 256 GB)",
+  "Actual_Price": "₹1,19,900",
+  "Sale_Price": "₹1,14,900",
+  "Offer": "4% off",
+  "Rating": 4.6,
+  "Total_Ratings": "1,054",
+  "No_of_Reviews": " 70",
+  "Space": "256 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Super Retina XDR Display12MP + 12MP + 12MP | 12MP Front CameraA14 Bionic Chip with Next Generation Neural Engine ProcessorCeramic Shield | Industry-leading IP68 Water ResistanceAll Screen OLED DisplayLiDAR Scanner for Improved AR Experiences, Night Mode PortraitsBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ec99d87cbb5ac99a43"
+  },
+  "Product_Name": "APPLE iPhone 13 Pro Max (Silver, 256 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹1,39,900",
+  "Offer": "No offer",
+  "Rating": 4.7,
+  "Total_Ratings": "652",
+  "No_of_Reviews": " 69",
+  "Space": "256 GB ",
+  "Specifications": "17.02 cm (6.7 inch) Super Retina XDR Display12MP + 12MP + 12MP | 12MP Front CameraA15 Bionic Chip ProcessorBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ec99d87cbb5ac99a44"
+  },
+  "Product_Name": "APPLE iPhone 8 (Space Grey, 256 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹77,000",
+  "Offer": "No offer",
+  "Rating": 4.5,
+  "Total_Ratings": "11,340",
+  "No_of_Reviews": " 799",
+  "Space": "256 GB ",
+  "Specifications": "11.94 cm (4.7 inch) Retina HD Display12MP Rear Camera | 7MP Front CameraA11 Bionic Chip with 64-bit Architecture, Neural Engine, Embedded M11 Motion Coprocessor ProcessorBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ec99d87cbb5ac99a45"
+  },
+  "Product_Name": "APPLE iPhone XS (Space Grey, 512 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹1,34,900",
+  "Offer": "No offer",
+  "Rating": 4.7,
+  "Total_Ratings": "11,960",
+  "No_of_Reviews": " 874",
+  "Space": "512 GB ",
+  "Specifications": "14.73 cm (5.8 inch) Super Retina HD Display12MP + 12MP | 7MP Front CameraA12 Bionic Chip Processor1 Year Limited Warranty for Products and Accessories"
+},{
+  "_id": {
+    "$oid": "61f629ec99d87cbb5ac99a46"
+  },
+  "Product_Name": "APPLE iPhone 8 (Silver, 256 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹77,000",
+  "Offer": "No offer",
+  "Rating": 4.5,
+  "Total_Ratings": "11,340",
+  "No_of_Reviews": " 799",
+  "Space": "256 GB ",
+  "Specifications": "11.94 cm (4.7 inch) Retina HD Display12MP Rear Camera | 7MP Front CameraA11 Bionic Chip with 64-bit Architecture, Neural Engine, Embedded M11 Motion Coprocessor ProcessorBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ec99d87cbb5ac99a47"
+  },
+  "Product_Name": "APPLE iPhone 8 Plus (Silver, 64 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹49,900",
+  "Offer": "No offer",
+  "Rating": 4.6,
+  "Total_Ratings": "3,443",
+  "No_of_Reviews": " 355",
+  "Space": "64 GB ",
+  "Specifications": "13.97 cm (5.5 inch) Retina HD Display12MP + 12MP | 7MP Front CameraA11 Bionic Chip with 64-bit Architecture, Neural Engine, Embedded M11 Motion Coprocessor ProcessorBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ec99d87cbb5ac99a48"
+  },
+  "Product_Name": "APPLE iPhone 8 Plus (Gold, 64 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹49,900",
+  "Offer": "No offer",
+  "Rating": 4.6,
+  "Total_Ratings": "3,443",
+  "No_of_Reviews": " 355",
+  "Space": "64 GB ",
+  "Specifications": "13.97 cm (5.5 inch) Retina HD Display12MP + 12MP | 7MP Front CameraA11 Bionic Chip with 64-bit Architecture, Neural Engine, Embedded M11 Motion Coprocessor ProcessorBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ec99d87cbb5ac99a49"
+  },
+  "Product_Name": "APPLE iPhone 6s (Space Grey, 32 GB)",
+  "Actual_Price": "₹29,900",
+  "Sale_Price": "₹25,299",
+  "Offer": "15% off",
+  "Rating": 4.5,
+  "Total_Ratings": "93,085",
+  "No_of_Reviews": " 9,280",
+  "Space": "32 GB ",
+  "Specifications": "11.94 cm (4.7 inch) Retina HD Display12MP Rear Camera | 5MP Front CameraApple A9 64-bit processor and Embedded M9 Motion Co-processorBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ec99d87cbb5ac99a4a"
+  },
+  "Product_Name": "APPLE iPhone 13 Pro (Sierra Blue, 128 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹1,19,900",
+  "Offer": "No offer",
+  "Rating": 4.7,
+  "Total_Ratings": "448",
+  "No_of_Reviews": " 42",
+  "Space": "128 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Super Retina XDR Display12MP + 12MP + 12MP | 12MP Front CameraA15 Bionic Chip ProcessorBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ec99d87cbb5ac99a4b"
+  },
+  "Product_Name": "APPLE iPhone 13 (Midnight, 256 GB)",
+  "Actual_Price": "₹89,900",
+  "Sale_Price": "₹84,900",
+  "Offer": "5% off",
+  "Rating": 4.7,
+  "Total_Ratings": "1,920",
+  "No_of_Reviews": " 204",
+  "Space": "256 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Super Retina XDR Display12MP + 12MP | 12MP Front CameraA15 Bionic Chip ProcessorBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ec99d87cbb5ac99a4c"
+  },
+  "Product_Name": "APPLE iPhone 8 (Gold, 64 GB)",
+  "Actual_Price": "₹39,900",
+  "Sale_Price": "₹38,999",
+  "Offer": "2% off",
+  "Rating": 4.5,
+  "Total_Ratings": "11,340",
+  "No_of_Reviews": " 799",
+  "Space": "64 GB ",
+  "Specifications": "11.94 cm (4.7 inch) Retina HD Display12MP Rear Camera | 7MP Front CameraA11 Bionic Chip with 64-bit Architecture, Neural Engine, Embedded M11 Motion Coprocessor ProcessoriOS 13 CompatibleBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ec99d87cbb5ac99a4d"
+  },
+  "Product_Name": "APPLE iPhone 13 Pro Max (Graphite, 256 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹1,39,900",
+  "Offer": "No offer",
+  "Rating": 4.7,
+  "Total_Ratings": "652",
+  "No_of_Reviews": " 69",
+  "Space": "256 GB ",
+  "Specifications": "17.02 cm (6.7 inch) Super Retina XDR Display12MP + 12MP + 12MP | 12MP Front CameraA15 Bionic Chip ProcessorBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ec99d87cbb5ac99a4e"
+  },
+  "Product_Name": "APPLE iPhone 6s (Silver, 32 GB)",
+  "Actual_Price": "₹29,900",
+  "Sale_Price": "₹25,299",
+  "Offer": "15% off",
+  "Rating": 4.5,
+  "Total_Ratings": "93,085",
+  "No_of_Reviews": " 9,280",
+  "Space": "32 GB ",
+  "Specifications": "11.94 cm (4.7 inch) Retina HD Display12MP Rear Camera | 5MP Front CameraApple A9 64-bit processor and M9 Motion Co-processorBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ec99d87cbb5ac99a4f"
+  },
+  "Product_Name": "APPLE iPhone 7 Plus (Black, 32 GB)",
+  "Actual_Price": "₹37,900",
+  "Sale_Price": "₹36,999",
+  "Offer": "2% off",
+  "Rating": 4.5,
+  "Total_Ratings": "29,800",
+  "No_of_Reviews": " 3,000",
+  "Space": "32 GB ",
+  "Specifications": "13.94 cm (5.488 inch) Retina HD Display12MP + 12MP | 7MP Front CameraApple A10 Fusion 64-bit processor and Embedded M10 Motion Co-processoriOS 13 CompatibleBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ec99d87cbb5ac99a50"
+  },
+  "Product_Name": "APPLE iPhone XS Max (Space Grey, 256 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹1,24,900",
+  "Offer": "No offer",
+  "Rating": 4.6,
+  "Total_Ratings": "1,454",
+  "No_of_Reviews": " 149",
+  "Space": "256 GB ",
+  "Specifications": "16.51 cm (6.5 inch) Super Retina HD Display12MP + 12MP | 7MP Front CameraA12 Bionic Chip ProcessoriOS 13 Compatible1 Year Limited Warranty for Products and Accessories"
+},{
+  "_id": {
+    "$oid": "61f629ec99d87cbb5ac99a51"
+  },
+  "Product_Name": "APPLE iPhone 6s Plus (Rose Gold, 32 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹34,900",
+  "Offer": "No offer",
+  "Rating": 4.4,
+  "Total_Ratings": "18,848",
+  "No_of_Reviews": " 2,392",
+  "Space": "32 GB ",
+  "Specifications": "13.97 cm (5.5 inch) Retina HD Display12MP Rear Camera | 5MP Front CameraApple A9 64-bit processor and Embedded M9 Motion Co-processorBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ec99d87cbb5ac99a52"
+  },
+  "Product_Name": "APPLE iPhone 13 Pro Max (Sierra Blue, 128 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹1,29,900",
+  "Offer": "No offer",
+  "Rating": 4.7,
+  "Total_Ratings": "652",
+  "No_of_Reviews": " 69",
+  "Space": "128 GB ",
+  "Specifications": "17.02 cm (6.7 inch) Super Retina XDR Display12MP + 12MP + 12MP | 12MP Front CameraA15 Bionic Chip ProcessorBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ec99d87cbb5ac99a53"
+  },
+  "Product_Name": "APPLE iPhone 13 Pro (Silver, 256 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹1,29,900",
+  "Offer": "No offer",
+  "Rating": 4.7,
+  "Total_Ratings": "448",
+  "No_of_Reviews": " 42",
+  "Space": "256 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Super Retina XDR Display12MP + 12MP + 12MP | 12MP Front CameraA15 Bionic Chip ProcessorBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ec99d87cbb5ac99a54"
+  },
+  "Product_Name": "APPLE iPhone 13 Pro (Sierra Blue, 256 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹1,29,900",
+  "Offer": "No offer",
+  "Rating": 4.7,
+  "Total_Ratings": "448",
+  "No_of_Reviews": " 42",
+  "Space": "256 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Super Retina XDR Display12MP + 12MP + 12MP | 12MP Front CameraA15 Bionic Chip ProcessorBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ec99d87cbb5ac99a55"
+  },
+  "Product_Name": "APPLE iPhone 13 (Pink, 256 GB)",
+  "Actual_Price": "₹89,900",
+  "Sale_Price": "₹84,900",
+  "Offer": "5% off",
+  "Rating": 4.7,
+  "Total_Ratings": "1,920",
+  "No_of_Reviews": " 204",
+  "Space": "256 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Super Retina XDR Display12MP + 12MP | 12MP Front CameraA15 Bionic Chip ProcessorBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ec99d87cbb5ac99a56"
+  },
+  "Product_Name": "APPLE iPhone 6s (Silver, 32 GB)",
+  "Actual_Price": "₹29,900",
+  "Sale_Price": "₹25,299",
+  "Offer": "15% off",
+  "Rating": 4.5,
+  "Total_Ratings": "93,085",
+  "No_of_Reviews": " 9,280",
+  "Space": "32 GB ",
+  "Specifications": "11.94 cm (4.7 inch) Retina HD Display12MP Rear Camera | 5MP Front CameraApple A9 64-bit processor and M9 Motion Co-processorBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ec99d87cbb5ac99a57"
+  },
+  "Product_Name": "APPLE iPhone 7 Plus (Black, 32 GB)",
+  "Actual_Price": "₹37,900",
+  "Sale_Price": "₹36,999",
+  "Offer": "2% off",
+  "Rating": 4.5,
+  "Total_Ratings": "29,800",
+  "No_of_Reviews": " 3,000",
+  "Space": "32 GB ",
+  "Specifications": "13.94 cm (5.488 inch) Retina HD Display12MP + 12MP | 7MP Front CameraApple A10 Fusion 64-bit processor and Embedded M10 Motion Co-processoriOS 13 CompatibleBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ec99d87cbb5ac99a58"
+  },
+  "Product_Name": "APPLE iPhone XS Max (Space Grey, 256 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹1,24,900",
+  "Offer": "No offer",
+  "Rating": 4.6,
+  "Total_Ratings": "1,454",
+  "No_of_Reviews": " 149",
+  "Space": "256 GB ",
+  "Specifications": "16.51 cm (6.5 inch) Super Retina HD Display12MP + 12MP | 7MP Front CameraA12 Bionic Chip ProcessoriOS 13 Compatible1 Year Limited Warranty for Products and Accessories"
+},{
+  "_id": {
+    "$oid": "61f629ec99d87cbb5ac99a59"
+  },
+  "Product_Name": "APPLE iPhone 6s Plus (Rose Gold, 32 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹34,900",
+  "Offer": "No offer",
+  "Rating": 4.4,
+  "Total_Ratings": "18,848",
+  "No_of_Reviews": " 2,392",
+  "Space": "32 GB ",
+  "Specifications": "13.97 cm (5.5 inch) Retina HD Display12MP Rear Camera | 5MP Front CameraApple A9 64-bit processor and Embedded M9 Motion Co-processorBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ec99d87cbb5ac99a5a"
+  },
+  "Product_Name": "APPLE iPhone 13 Pro Max (Sierra Blue, 128 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹1,29,900",
+  "Offer": "No offer",
+  "Rating": 4.7,
+  "Total_Ratings": "652",
+  "No_of_Reviews": " 69",
+  "Space": "128 GB ",
+  "Specifications": "17.02 cm (6.7 inch) Super Retina XDR Display12MP + 12MP + 12MP | 12MP Front CameraA15 Bionic Chip ProcessorBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ec99d87cbb5ac99a5b"
+  },
+  "Product_Name": "APPLE iPhone 13 Pro (Silver, 256 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹1,29,900",
+  "Offer": "No offer",
+  "Rating": 4.7,
+  "Total_Ratings": "448",
+  "No_of_Reviews": " 42",
+  "Space": "256 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Super Retina XDR Display12MP + 12MP + 12MP | 12MP Front CameraA15 Bionic Chip ProcessorBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ec99d87cbb5ac99a5c"
+  },
+  "Product_Name": "APPLE iPhone 13 Pro (Sierra Blue, 256 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹1,29,900",
+  "Offer": "No offer",
+  "Rating": 4.7,
+  "Total_Ratings": "448",
+  "No_of_Reviews": " 42",
+  "Space": "256 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Super Retina XDR Display12MP + 12MP + 12MP | 12MP Front CameraA15 Bionic Chip ProcessorBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ec99d87cbb5ac99a5d"
+  },
+  "Product_Name": "APPLE iPhone 6 (Space Grey, 16 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹52,000",
+  "Offer": "No offer",
+  "Rating": 4.4,
+  "Total_Ratings": "1,45,616",
+  "No_of_Reviews": " 16,341",
+  "Space": "16 GB ",
+  "Specifications": "11.94 cm (4.7 inch) Retina HD Display8MP Rear Camera | 1.2MP Front CameraApple A8 64-bit processor and M8 Motion Co-processor1 Year Manufacturer Warranty"
+},{
+  "_id": {
+    "$oid": "61f629ec99d87cbb5ac99a5e"
+  },
+  "Product_Name": "APPLE iPhone 13 (Pink, 256 GB)",
+  "Actual_Price": "₹89,900",
+  "Sale_Price": "₹84,900",
+  "Offer": "5% off",
+  "Rating": 4.7,
+  "Total_Ratings": "1,920",
+  "No_of_Reviews": " 204",
+  "Space": "256 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Super Retina XDR Display12MP + 12MP | 12MP Front CameraA15 Bionic Chip ProcessorBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ec99d87cbb5ac99a5f"
+  },
+  "Product_Name": "APPLE iPhone 12 Pro (Silver, 128 GB)",
+  "Actual_Price": "₹1,09,900",
+  "Sale_Price": "₹1,04,900",
+  "Offer": "4% off",
+  "Rating": 4.6,
+  "Total_Ratings": "1,054",
+  "No_of_Reviews": " 70",
+  "Space": "128 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Super Retina XDR Display12MP + 12MP + 12MP | 12MP Front CameraA14 Bionic Chip with Next Generation Neural Engine ProcessorCeramic Shield | Industry-leading IP68 Water ResistanceAll Screen OLED DisplayLiDAR Scanner for Improved AR Experiences, Night Mode PortraitsBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ec99d87cbb5ac99a60"
+  },
+  "Product_Name": "APPLE iPhone 13 Pro Max (Graphite, 128 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹1,29,900",
+  "Offer": "No offer",
+  "Rating": 4.7,
+  "Total_Ratings": "652",
+  "No_of_Reviews": " 69",
+  "Space": "128 GB ",
+  "Specifications": "17.02 cm (6.7 inch) Super Retina XDR Display12MP + 12MP + 12MP | 12MP Front CameraA15 Bionic Chip ProcessorBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99a61"
+  },
+  "Product_Name": "APPLE iPhone XS (Gold, 512 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹1,34,900",
+  "Offer": "No offer",
+  "Rating": 4.7,
+  "Total_Ratings": "11,960",
+  "No_of_Reviews": " 874",
+  "Space": "512 GB ",
+  "Specifications": "14.73 cm (5.8 inch) Super Retina HD Display12MP + 12MP | 7MP Front CameraA12 Bionic Chip Processor1 Year Limited Warranty for Products and Accessories"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99a62"
+  },
+  "Product_Name": "APPLE iPhone 8 Plus (Silver, 256 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹84,900",
+  "Offer": "No offer",
+  "Rating": 4.6,
+  "Total_Ratings": "3,443",
+  "No_of_Reviews": " 355",
+  "Space": "256 GB ",
+  "Specifications": "13.97 cm (5.5 inch) Retina HD Display12MP + 12MP | 7MP Front CameraA11 Bionic Chip with 64-bit Architecture, Neural Engine, Embedded M11 Motion Coprocessor ProcessorBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99a63"
+  },
+  "Product_Name": "APPLE iPhone 6s (Rose Gold, 32 GB)",
+  "Actual_Price": "₹29,900",
+  "Sale_Price": "₹25,299",
+  "Offer": "15% off",
+  "Rating": 4.5,
+  "Total_Ratings": "93,085",
+  "No_of_Reviews": " 9,280",
+  "Space": "32 GB ",
+  "Specifications": "11.94 cm (4.7 inch) Retina HD Display12MP Rear Camera | 5MP Front CameraApple A9 64-bit processor and M9 Motion Co-processorBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99a64"
+  },
+  "Product_Name": "APPLE iPhone 13 Pro (Silver, 128 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹1,19,900",
+  "Offer": "No offer",
+  "Rating": 4.7,
+  "Total_Ratings": "448",
+  "No_of_Reviews": " 42",
+  "Space": "128 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Super Retina XDR Display12MP + 12MP + 12MP | 12MP Front CameraA15 Bionic Chip ProcessorBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99a65"
+  },
+  "Product_Name": "APPLE iPhone 13 Pro Max (Gold, 512 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹1,59,900",
+  "Offer": "No offer",
+  "Rating": 4.7,
+  "Total_Ratings": "652",
+  "No_of_Reviews": " 69",
+  "Space": "512 GB ",
+  "Specifications": "17.02 cm (6.7 inch) Super Retina XDR Display12MP + 12MP + 12MP | 12MP Front CameraA15 Bionic Chip ProcessorBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99a66"
+  },
+  "Product_Name": "APPLE iPhone 12 Pro (Pacific Blue, 256 GB)",
+  "Actual_Price": "₹1,19,900",
+  "Sale_Price": "₹1,14,900",
+  "Offer": "4% off",
+  "Rating": 4.6,
+  "Total_Ratings": "1,054",
+  "No_of_Reviews": " 70",
+  "Space": "256 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Super Retina XDR Display12MP + 12MP + 12MP | 12MP Front CameraA14 Bionic Chip with Next Generation Neural Engine ProcessorCeramic Shield | Industry-leading IP68 Water ResistanceAll Screen OLED DisplayLiDAR Scanner for Improved AR Experiences, Night Mode PortraitsBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99a67"
+  },
+  "Product_Name": "APPLE iPhone 13 Mini (Blue, 512 GB)",
+  "Actual_Price": "₹99,900",
+  "Sale_Price": "₹96,900",
+  "Offer": "3% off",
+  "Rating": 4.6,
+  "Total_Ratings": "272",
+  "No_of_Reviews": " 25",
+  "Space": "512 GB ",
+  "Specifications": "13.72 cm (5.4 inch) Super Retina XDR Display12MP + 12MP | 12MP Front CameraA15 Bionic Chip ProcessorBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99a68"
+  },
+  "Product_Name": "APPLE iPhone 8 Plus (Space Grey, 256 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹84,900",
+  "Offer": "No offer",
+  "Rating": 4.6,
+  "Total_Ratings": "3,443",
+  "No_of_Reviews": " 355",
+  "Space": "256 GB ",
+  "Specifications": "13.97 cm (5.5 inch) Retina HD Display12MP + 12MP | 7MP Front CameraA11 Bionic Chip with 64-bit Architecture, Neural Engine, Embedded M11 Motion Coprocessor ProcessorBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99a69"
+  },
+  "Product_Name": "APPLE iPhone 12 Pro (Gold, 256 GB)",
+  "Actual_Price": "₹1,19,900",
+  "Sale_Price": "₹1,14,900",
+  "Offer": "4% off",
+  "Rating": 4.6,
+  "Total_Ratings": "1,054",
+  "No_of_Reviews": " 70",
+  "Space": "256 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Super Retina XDR Display12MP + 12MP + 12MP | 12MP Front CameraA14 Bionic Chip with Next Generation Neural Engine ProcessorCeramic Shield | Industry-leading IP68 Water ResistanceAll Screen OLED DisplayLiDAR Scanner for Improved AR Experiences, Night Mode PortraitsBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99a6a"
+  },
+  "Product_Name": "APPLE iPhone 13 Pro (Gold, 1 TB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹1,69,900",
+  "Offer": "No offer",
+  "Rating": 4.7,
+  "Total_Ratings": "448",
+  "No_of_Reviews": " 42",
+  "Space": "1 TB ",
+  "Specifications": "15.49 cm (6.1 inch) Super Retina XDR Display12MP + 12MP + 12MP | 12MP Front CameraA15 Bionic Chip ProcessorBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99a6b"
+  },
+  "Product_Name": "APPLE iPhone 12 Pro (Pacific Blue, 128 GB)",
+  "Actual_Price": "₹1,09,900",
+  "Sale_Price": "₹1,04,900",
+  "Offer": "4% off",
+  "Rating": 4.6,
+  "Total_Ratings": "1,054",
+  "No_of_Reviews": " 70",
+  "Space": "128 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Super Retina XDR Display12MP + 12MP + 12MP | 12MP Front CameraA14 Bionic Chip with Next Generation Neural Engine ProcessorCeramic Shield | Industry-leading IP68 Water ResistanceAll Screen OLED DisplayLiDAR Scanner for Improved AR Experiences, Night Mode PortraitsBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99a6c"
+  },
+  "Product_Name": "APPLE iPhone 13 Pro Max (Sierra Blue, 1 TB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹1,79,900",
+  "Offer": "No offer",
+  "Rating": 4.7,
+  "Total_Ratings": "652",
+  "No_of_Reviews": " 69",
+  "Space": "1 TB ",
+  "Specifications": "17.02 cm (6.7 inch) Super Retina XDR Display12MP + 12MP + 12MP | 12MP Front CameraA15 Bionic Chip ProcessorBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99a6d"
+  },
+  "Product_Name": "APPLE iPhone 13 Pro (Gold, 512 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹1,49,900",
+  "Offer": "No offer",
+  "Rating": 4.7,
+  "Total_Ratings": "448",
+  "No_of_Reviews": " 42",
+  "Space": "512 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Super Retina XDR Display12MP + 12MP + 12MP | 12MP Front CameraA15 Bionic Chip ProcessorBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99a6e"
+  },
+  "Product_Name": "APPLE iPhone 13 Pro (Sierra Blue, 512 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹1,49,900",
+  "Offer": "No offer",
+  "Rating": 4.7,
+  "Total_Ratings": "448",
+  "No_of_Reviews": " 42",
+  "Space": "512 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Super Retina XDR Display12MP + 12MP + 12MP | 12MP Front CameraA15 Bionic Chip ProcessorBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99a6f"
+  },
+  "Product_Name": "APPLE iPhone 12 Pro Max (Silver, 512 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹1,49,900",
+  "Offer": "No offer",
+  "Rating": 4.6,
+  "Total_Ratings": "1,202",
+  "No_of_Reviews": " 98",
+  "Space": "512 GB ",
+  "Specifications": "17.02 cm (6.7 inch) Super Retina XDR Display12MP + 12MP + 12MP | 12MP Front CameraA14 Bionic Chip with Next Generation Neural Engine ProcessorCeramic Shield | Industry-leading IP68 Water ResistanceAll Screen OLED DisplayLiDAR Scanner for Improved AR Experiences, Night Mode PortraitsBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99a70"
+  },
+  "Product_Name": "APPLE iPhone 13 (Pink, 512 GB)",
+  "Actual_Price": "₹1,09,900",
+  "Sale_Price": "₹1,04,900",
+  "Offer": "4% off",
+  "Rating": 4.7,
+  "Total_Ratings": "1,920",
+  "No_of_Reviews": " 204",
+  "Space": "512 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Super Retina XDR Display12MP + 12MP | 12MP Front CameraA15 Bionic Chip ProcessorBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99a71"
+  },
+  "Product_Name": "APPLE iPhone 12 Pro Max (Silver, 128 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹1,19,900",
+  "Offer": "No offer",
+  "Rating": 4.6,
+  "Total_Ratings": "1,202",
+  "No_of_Reviews": " 98",
+  "Space": "128 GB ",
+  "Specifications": "17.02 cm (6.7 inch) Super Retina XDR Display12MP + 12MP + 12MP | 12MP Front CameraA14 Bionic Chip with Next Generation Neural Engine ProcessorCeramic Shield | Industry-leading IP68 Water ResistanceAll Screen OLED DisplayLiDAR Scanner for Improved AR Experiences, Night Mode PortraitsBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99a72"
+  },
+  "Product_Name": "APPLE iPhone 13 (Starlight, 512 GB)",
+  "Actual_Price": "₹1,09,900",
+  "Sale_Price": "₹1,04,900",
+  "Offer": "4% off",
+  "Rating": 4.7,
+  "Total_Ratings": "1,920",
+  "No_of_Reviews": " 204",
+  "Space": "512 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Super Retina XDR Display12MP + 12MP | 12MP Front CameraA15 Bionic Chip ProcessorBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99a73"
+  },
+  "Product_Name": "APPLE iPhone 13 Pro (Sierra Blue, 1 TB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹1,69,900",
+  "Offer": "No offer",
+  "Rating": 4.7,
+  "Total_Ratings": "448",
+  "No_of_Reviews": " 42",
+  "Space": "1 TB ",
+  "Specifications": "15.49 cm (6.1 inch) Super Retina XDR Display12MP + 12MP + 12MP | 12MP Front CameraA15 Bionic Chip ProcessorBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99a74"
+  },
+  "Product_Name": "APPLE iPhone 11 Pro Max (Silver, 64 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹1,17,100",
+  "Offer": "No offer",
+  "Rating": 4.7,
+  "Total_Ratings": "1,093",
+  "No_of_Reviews": " 100",
+  "Space": "64 GB ",
+  "Specifications": "16.51 cm (6.5 inch) Super Retina XDR Display12MP + 12MP + 12MP | 12MP Front CameraA13 Bionic Chip ProcessorBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99a75"
+  },
+  "Product_Name": "APPLE iPhone 13 (Blue, 512 GB)",
+  "Actual_Price": "₹1,09,900",
+  "Sale_Price": "₹1,04,900",
+  "Offer": "4% off",
+  "Rating": 4.7,
+  "Total_Ratings": "1,920",
+  "No_of_Reviews": " 204",
+  "Space": "512 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Super Retina XDR Display12MP + 12MP | 12MP Front CameraA15 Bionic Chip ProcessorBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99a76"
+  },
+  "Product_Name": "APPLE iPhone 12 Pro Max (Gold, 512 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹1,49,900",
+  "Offer": "No offer",
+  "Rating": 4.6,
+  "Total_Ratings": "1,202",
+  "No_of_Reviews": " 98",
+  "Space": "512 GB ",
+  "Specifications": "17.02 cm (6.7 inch) Super Retina XDR Display12MP + 12MP + 12MP | 12MP Front CameraA14 Bionic Chip with Next Generation Neural Engine ProcessorCeramic Shield | Industry-leading IP68 Water ResistanceAll Screen OLED DisplayLiDAR Scanner for Improved AR Experiences, Night Mode PortraitsBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99a77"
+  },
+  "Product_Name": "APPLE iPhone 12 Pro (Graphite, 512 GB)",
+  "Actual_Price": "₹1,39,900",
+  "Sale_Price": "₹1,34,900",
+  "Offer": "3% off",
+  "Rating": 4.6,
+  "Total_Ratings": "1,054",
+  "No_of_Reviews": " 70",
+  "Space": "512 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Super Retina XDR Display12MP + 12MP + 12MP | 12MP Front CameraA14 Bionic Chip with Next Generation Neural Engine ProcessorCeramic Shield | Industry-leading IP68 Water ResistanceAll Screen OLED DisplayLiDAR Scanner for Improved AR Experiences, Night Mode PortraitsBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99a78"
+  },
+  "Product_Name": "APPLE iPhone 8 Plus (Space Grey, 64 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹49,900",
+  "Offer": "No offer",
+  "Rating": 4.6,
+  "Total_Ratings": "3,443",
+  "No_of_Reviews": " 355",
+  "Space": "64 GB ",
+  "Specifications": "13.97 cm (5.5 inch) Retina HD Display12MP + 12MP | 7MP Front CameraA11 Bionic Chip with 64-bit Architecture, Neural Engine, Embedded M11 Motion Coprocessor ProcessorBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99a79"
+  },
+  "Product_Name": "APPLE iPhone 6s (Gold, 32 GB)",
+  "Actual_Price": "₹29,900",
+  "Sale_Price": "₹25,299",
+  "Offer": "15% off",
+  "Rating": 4.5,
+  "Total_Ratings": "93,085",
+  "No_of_Reviews": " 9,280",
+  "Space": "32 GB ",
+  "Specifications": "11.94 cm (4.7 inch) Retina HD Display12MP Rear Camera | 5MP Front CameraApple A9 64-bit processor and Embedded M9 Motion Co-processorBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99a7a"
+  },
+  "Product_Name": "APPLE iPhone SE (White, 64 GB)",
+  "Actual_Price": "₹39,900",
+  "Sale_Price": "₹27,999",
+  "Offer": "29% off",
+  "Rating": 4.5,
+  "Total_Ratings": "1,41,146",
+  "No_of_Reviews": " 11,244",
+  "Space": "64 GB ",
+  "Specifications": "11.94 cm (4.7 inch) Retina HD Display12MP Rear Camera | 7MP Front CameraA13 Bionic Chip with 3rd Gen Neural Engine ProcessorWater and Dust Resistant (1 meter for Upto 30 minutes, IP67)Fast Charge CapableWireless charging (Works with Qi Chargers | Qi Chargers are Sold SeparatelyBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99a7b"
+  },
+  "Product_Name": "APPLE iPhone SE (Black, 64 GB)",
+  "Actual_Price": "₹39,900",
+  "Sale_Price": "₹27,999",
+  "Offer": "29% off",
+  "Rating": 4.5,
+  "Total_Ratings": "1,41,146",
+  "No_of_Reviews": " 11,244",
+  "Space": "64 GB ",
+  "Specifications": "11.94 cm (4.7 inch) Retina HD Display12MP Rear Camera | 7MP Front CameraA13 Bionic Chip with 3rd Gen Neural Engine ProcessorWater and Dust Resistant (1 meter for Upto 30 minutes, IP67)Fast Charge CapableWireless charging (Works with Qi Chargers | Qi Chargers are Sold SeparatelyBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99a7c"
+  },
+  "Product_Name": "APPLE iPhone 12 Mini (White, 64 GB)",
+  "Actual_Price": "₹59,900",
+  "Sale_Price": "₹41,999",
+  "Offer": "29% off",
+  "Rating": 4.5,
+  "Total_Ratings": "84,015",
+  "No_of_Reviews": " 6,743",
+  "Space": "64 GB ",
+  "Specifications": "13.72 cm (5.4 inch) Super Retina XDR Display12MP + 12MP | 12MP Front CameraA14 Bionic Chip with Next Generation Neural Engine ProcessorCeramic ShieldIndustry-leading IP68 Water ResistanceAll Screen OLED Display12MP TrueDepth Front Camera with Night Mode, 4K Dolby Vision HDR RecordingBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99a7d"
+  },
+  "Product_Name": "APPLE iPhone XR (Black, 128 GB)",
+  "Actual_Price": "₹52,900",
+  "Sale_Price": "₹39,999",
+  "Offer": "24% off",
+  "Rating": 4.6,
+  "Total_Ratings": "99,045",
+  "No_of_Reviews": " 8,471",
+  "Space": "128 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Display12MP Rear Camera | 7MP Front CameraA12 Bionic Chip ProcessorWater and Dust Resistant (1 meter for Upto 30 minutes, IP67)Face ID for Secure AuthenticationFast-charge CapableBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99a7e"
+  },
+  "Product_Name": "Apple iPhone XR (White, 128 GB) (Includes EarPods, Power Adapter)",
+  "Actual_Price": "₹52,900",
+  "Sale_Price": "₹39,999",
+  "Offer": "24% off",
+  "Rating": 4.6,
+  "Total_Ratings": "99,045",
+  "No_of_Reviews": " 8,471",
+  "Space": "128 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Display12MP Rear Camera | 7MP Front CameraA12 Bionic Chip ProcessoriOS 13 CompatibleBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99a7f"
+  },
+  "Product_Name": "APPLE iPhone SE (Black, 128 GB)",
+  "Actual_Price": "₹44,900",
+  "Sale_Price": "₹32,999",
+  "Offer": "26% off",
+  "Rating": 4.5,
+  "Total_Ratings": "1,41,146",
+  "No_of_Reviews": " 11,244",
+  "Space": "128 GB ",
+  "Specifications": "11.94 cm (4.7 inch) Retina HD Display12MP Rear Camera | 7MP Front CameraA13 Bionic Chip with 3rd Gen Neural Engine ProcessorWater and Dust Resistant (1 meter for Upto 30 minutes, IP67)Fast Charge CapableWireless charging (Works with Qi Chargers | Qi Chargers are Sold SeparatelyBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99a80"
+  },
+  "Product_Name": "APPLE iPhone XR ((PRODUCT)RED, 128 GB)",
+  "Actual_Price": "₹52,900",
+  "Sale_Price": "₹39,999",
+  "Offer": "24% off",
+  "Rating": 4.6,
+  "Total_Ratings": "99,045",
+  "No_of_Reviews": " 8,471",
+  "Space": "128 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Display12MP Rear Camera | 7MP Front CameraA12 Bionic Chip ProcessorWater and Dust Resistant (1 meter for Upto 30 minutes, IP67)Face ID for Secure AuthenticationFast-charge CapableBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99a81"
+  },
+  "Product_Name": "APPLE iPhone 13 Mini (Blue, 128 GB)",
+  "Actual_Price": "₹69,900",
+  "Sale_Price": "₹66,900",
+  "Offer": "4% off",
+  "Rating": 4.6,
+  "Total_Ratings": "272",
+  "No_of_Reviews": " 25",
+  "Space": "128 GB ",
+  "Specifications": "13.72 cm (5.4 inch) Super Retina XDR Display12MP + 12MP | 12MP Front CameraA15 Bionic Chip ProcessorBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99a82"
+  },
+  "Product_Name": "APPLE iPhone 12 Mini (Purple, 64 GB)",
+  "Actual_Price": "₹59,900",
+  "Sale_Price": "₹41,999",
+  "Offer": "29% off",
+  "Rating": 4.5,
+  "Total_Ratings": "84,015",
+  "No_of_Reviews": " 6,743",
+  "Space": "64 GB ",
+  "Specifications": "13.72 cm (5.4 inch) Super Retina XDR Display12MP + 12MP | 12MP Front CameraA14 Bionic Chip with Next Generation Neural Engine ProcessorCeramic ShieldIP68 Water ResistanceAll Screen OLED DisplayBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99a83"
+  },
+  "Product_Name": "Apple iPhone XR (White, 64 GB) (Includes EarPods, Power Adapter)",
+  "Actual_Price": "₹47,900",
+  "Sale_Price": "₹34,999",
+  "Offer": "26% off",
+  "Rating": 4.6,
+  "Total_Ratings": "99,045",
+  "No_of_Reviews": " 8,471",
+  "Space": "64 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Display12MP Rear Camera | 7MP Front CameraA12 Bionic Chip ProcessoriOS 13 CompatibleBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99a84"
+  },
+  "Product_Name": "APPLE iPhone SE (White, 128 GB)",
+  "Actual_Price": "₹44,900",
+  "Sale_Price": "₹32,999",
+  "Offer": "26% off",
+  "Rating": 4.5,
+  "Total_Ratings": "1,41,146",
+  "No_of_Reviews": " 11,244",
+  "Space": "128 GB ",
+  "Specifications": "11.94 cm (4.7 inch) Retina HD Display12MP Rear Camera | 7MP Front CameraA13 Bionic Chip with 3rd Gen Neural Engine ProcessorWater and Dust Resistant (1 meter for Upto 30 minutes, IP67)Fast Charge CapableWireless charging (Works with Qi Chargers | Qi Chargers are Sold SeparatelyBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99a85"
+  },
+  "Product_Name": "APPLE iPhone 12 Mini (Black, 128 GB)",
+  "Actual_Price": "₹64,900",
+  "Sale_Price": "₹54,999",
+  "Offer": "15% off",
+  "Rating": 4.5,
+  "Total_Ratings": "84,015",
+  "No_of_Reviews": " 6,743",
+  "Space": "128 GB ",
+  "Specifications": "13.72 cm (5.4 inch) Super Retina XDR Display12MP + 12MP | 12MP Front CameraA14 Bionic Chip with Next Generation Neural Engine ProcessorCeramic ShieldIndustry-leading IP68 Water ResistanceAll Screen OLED Display12MP TrueDepth Front Camera with Night Mode, 4K Dolby Vision HDR RecordingBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99a86"
+  },
+  "Product_Name": "APPLE iPhone 6s (Gold, 32 GB)",
+  "Actual_Price": "₹29,900",
+  "Sale_Price": "₹25,299",
+  "Offer": "15% off",
+  "Rating": 4.5,
+  "Total_Ratings": "93,085",
+  "No_of_Reviews": " 9,280",
+  "Space": "32 GB ",
+  "Specifications": "11.94 cm (4.7 inch) Retina HD Display12MP Rear Camera | 5MP Front CameraApple A9 64-bit processor and Embedded M9 Motion Co-processorBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99a87"
+  },
+  "Product_Name": "Apple iPhone XR ((PRODUCT)RED, 64 GB) (Includes EarPods, Power Adapter)",
+  "Actual_Price": "₹47,900",
+  "Sale_Price": "₹34,999",
+  "Offer": "26% off",
+  "Rating": 4.6,
+  "Total_Ratings": "99,045",
+  "No_of_Reviews": " 8,471",
+  "Space": "64 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Display12MP Rear Camera | 7MP Front CameraA12 Bionic Chip ProcessoriOS 13 CompatibleBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99a88"
+  },
+  "Product_Name": "Apple iPhone XR (White, 128 GB) (Includes EarPods, Power Adapter)",
+  "Actual_Price": "₹52,900",
+  "Sale_Price": "₹39,999",
+  "Offer": "24% off",
+  "Rating": 4.6,
+  "Total_Ratings": "99,045",
+  "No_of_Reviews": " 8,471",
+  "Space": "128 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Display12MP Rear Camera | 7MP Front CameraA12 Bionic Chip ProcessoriOS 13 CompatibleBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99a89"
+  },
+  "Product_Name": "APPLE iPhone 12 Mini (Purple, 64 GB)",
+  "Actual_Price": "₹59,900",
+  "Sale_Price": "₹41,999",
+  "Offer": "29% off",
+  "Rating": 4.5,
+  "Total_Ratings": "84,015",
+  "No_of_Reviews": " 6,743",
+  "Space": "64 GB ",
+  "Specifications": "13.72 cm (5.4 inch) Super Retina XDR Display12MP + 12MP | 12MP Front CameraA14 Bionic Chip with Next Generation Neural Engine ProcessorCeramic ShieldIP68 Water ResistanceAll Screen OLED DisplayBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99a8a"
+  },
+  "Product_Name": "Apple iPhone XR (White, 64 GB) (Includes EarPods, Power Adapter)",
+  "Actual_Price": "₹47,900",
+  "Sale_Price": "₹34,999",
+  "Offer": "26% off",
+  "Rating": 4.6,
+  "Total_Ratings": "99,045",
+  "No_of_Reviews": " 8,471",
+  "Space": "64 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Display12MP Rear Camera | 7MP Front CameraA12 Bionic Chip ProcessoriOS 13 CompatibleBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99a8b"
+  },
+  "Product_Name": "APPLE iPhone 12 Mini (Black, 128 GB)",
+  "Actual_Price": "₹64,900",
+  "Sale_Price": "₹54,999",
+  "Offer": "15% off",
+  "Rating": 4.5,
+  "Total_Ratings": "84,015",
+  "No_of_Reviews": " 6,743",
+  "Space": "128 GB ",
+  "Specifications": "13.72 cm (5.4 inch) Super Retina XDR Display12MP + 12MP | 12MP Front CameraA14 Bionic Chip with Next Generation Neural Engine ProcessorCeramic ShieldIndustry-leading IP68 Water ResistanceAll Screen OLED Display12MP TrueDepth Front Camera with Night Mode, 4K Dolby Vision HDR RecordingBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99a8c"
+  },
+  "Product_Name": "APPLE iPhone 12 Mini (Blue, 128 GB)",
+  "Actual_Price": "₹64,900",
+  "Sale_Price": "₹54,999",
+  "Offer": "15% off",
+  "Rating": 4.5,
+  "Total_Ratings": "84,015",
+  "No_of_Reviews": " 6,743",
+  "Space": "128 GB ",
+  "Specifications": "13.72 cm (5.4 inch) Super Retina XDR Display12MP + 12MP | 12MP Front CameraA14 Bionic Chip with Next Generation Neural Engine ProcessorCeramic ShieldIndustry-leading IP68 Water ResistanceAll Screen OLED Display12MP TrueDepth Front Camera with Night Mode, 4K Dolby Vision HDR RecordingBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99a8d"
+  },
+  "Product_Name": "APPLE iPhone 13 Pro Max (Sierra Blue, 256 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹1,39,900",
+  "Offer": "No offer",
+  "Rating": 4.7,
+  "Total_Ratings": "652",
+  "No_of_Reviews": " 69",
+  "Space": "256 GB ",
+  "Specifications": "17.02 cm (6.7 inch) Super Retina XDR Display12MP + 12MP + 12MP | 12MP Front CameraA15 Bionic Chip ProcessorBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99a8e"
+  },
+  "Product_Name": "APPLE iPhone 12 (Blue, 64 GB)",
+  "Actual_Price": "₹65,900",
+  "Sale_Price": "₹52,999",
+  "Offer": "19% off",
+  "Rating": 4.7,
+  "Total_Ratings": "1,56,242",
+  "No_of_Reviews": " 10,698",
+  "Space": "64 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Super Retina XDR Display12MP + 12MP | 12MP Front CameraA14 Bionic Chip with Next Generation Neural Engine ProcessorCeramic ShieldIndustry-leading IP68 Water ResistanceAll Screen OLED Display12MP TrueDepth Front Camera with Night Mode, 4K Dolby Vision HDR RecordingBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99a8f"
+  },
+  "Product_Name": "Apple iPhone XR (Black, 128 GB) (Includes EarPods, Power Adapter)",
+  "Actual_Price": "₹52,900",
+  "Sale_Price": "₹39,999",
+  "Offer": "24% off",
+  "Rating": 4.6,
+  "Total_Ratings": "99,045",
+  "No_of_Reviews": " 8,471",
+  "Space": "128 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Display12MP Rear Camera | 7MP Front CameraA12 Bionic Chip ProcessoriOS 13 CompatibleBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99a90"
+  },
+  "Product_Name": "APPLE iPhone XR (Blue, 128 GB)",
+  "Actual_Price": "₹52,900",
+  "Sale_Price": "₹39,999",
+  "Offer": "24% off",
+  "Rating": 4.6,
+  "Total_Ratings": "99,045",
+  "No_of_Reviews": " 8,471",
+  "Space": "128 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Display12MP Rear Camera | 7MP Front CameraA12 Bionic Chip ProcessorBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99a91"
+  },
+  "Product_Name": "APPLE iPhone 11 (Red, 64 GB)",
+  "Actual_Price": "₹49,900",
+  "Sale_Price": "₹46,499",
+  "Offer": "6% off",
+  "Rating": 4.6,
+  "Total_Ratings": "78,000",
+  "No_of_Reviews": " 5,889",
+  "Space": "64 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Liquid Retina HD Display12MP + 12MP | 12MP Front CameraA13 Bionic Chip ProcessorBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99a92"
+  },
+  "Product_Name": "APPLE iPhone 12 Mini (Green, 64 GB)",
+  "Actual_Price": "₹59,900",
+  "Sale_Price": "₹41,999",
+  "Offer": "29% off",
+  "Rating": 4.5,
+  "Total_Ratings": "84,015",
+  "No_of_Reviews": " 6,743",
+  "Space": "64 GB ",
+  "Specifications": "13.72 cm (5.4 inch) Super Retina XDR Display12MP + 12MP | 12MP Front CameraA14 Bionic Chip with Next Generation Neural Engine ProcessorCeramic ShieldIndustry-leading IP68 Water ResistanceAll Screen OLED Display12MP TrueDepth Front Camera with Night Mode, 4K Dolby Vision HDR RecordingBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99a93"
+  },
+  "Product_Name": "APPLE iPhone 12 (Purple, 128 GB)",
+  "Actual_Price": "₹70,900",
+  "Sale_Price": "₹64,999",
+  "Offer": "8% off",
+  "Rating": 4.7,
+  "Total_Ratings": "1,56,242",
+  "No_of_Reviews": " 10,698",
+  "Space": "128 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Super Retina XDR Display12MP + 12MP | 12MP Front CameraA14 Bionic Chip with Next Generation Neural Engine ProcessorCeramic ShieldIndustry-leading IP68 Water ResistanceAll Screen OLED Display12MP TrueDepth Front Camera with Night Mode, 4K Dolby Vision HDR RecordingBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99a94"
+  },
+  "Product_Name": "APPLE iPhone 13 ((PRODUCT)RED, 128 GB)",
+  "Actual_Price": "₹79,900",
+  "Sale_Price": "₹74,900",
+  "Offer": "6% off",
+  "Rating": 4.7,
+  "Total_Ratings": "1,920",
+  "No_of_Reviews": " 204",
+  "Space": "128 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Super Retina XDR Display12MP + 12MP | 12MP Front CameraA15 Bionic Chip ProcessorBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99a95"
+  },
+  "Product_Name": "APPLE iPhone 12 (White, 64 GB)",
+  "Actual_Price": "₹65,900",
+  "Sale_Price": "₹52,999",
+  "Offer": "19% off",
+  "Rating": 4.7,
+  "Total_Ratings": "1,56,242",
+  "No_of_Reviews": " 10,698",
+  "Space": "64 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Super Retina XDR Display12MP + 12MP | 12MP Front CameraA14 Bionic Chip with Next Generation Neural Engine ProcessorCeramic ShieldIndustry-leading IP68 Water ResistanceAll Screen OLED Display12MP TrueDepth Front Camera with Night Mode, 4K Dolby Vision HDR RecordingBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99a96"
+  },
+  "Product_Name": "APPLE iPhone 12 (Red, 128 GB)",
+  "Actual_Price": "₹70,900",
+  "Sale_Price": "₹64,999",
+  "Offer": "8% off",
+  "Rating": 4.7,
+  "Total_Ratings": "1,56,242",
+  "No_of_Reviews": " 10,698",
+  "Space": "128 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Super Retina XDR Display12MP + 12MP | 12MP Front CameraA14 Bionic Chip with Next Generation Neural Engine ProcessorCeramic ShieldIndustry-leading IP68 Water ResistanceAll Screen OLED Display12MP TrueDepth Front Camera with Night Mode, 4K Dolby Vision HDR RecordingBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99a97"
+  },
+  "Product_Name": "APPLE iPhone 12 Mini (Green, 128 GB)",
+  "Actual_Price": "₹64,900",
+  "Sale_Price": "₹54,999",
+  "Offer": "15% off",
+  "Rating": 4.5,
+  "Total_Ratings": "84,015",
+  "No_of_Reviews": " 6,743",
+  "Space": "128 GB ",
+  "Specifications": "13.72 cm (5.4 inch) Super Retina XDR Display12MP + 12MP | 12MP Front CameraA14 Bionic Chip with Next Generation Neural Engine ProcessorCeramic ShieldIndustry-leading IP68 Water ResistanceAll Screen OLED Display12MP TrueDepth Front Camera with Night Mode, 4K Dolby Vision HDR RecordingBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99a98"
+  },
+  "Product_Name": "Apple iPhone XR ((PRODUCT)RED, 128 GB) (Includes EarPods, Power Adapter)",
+  "Actual_Price": "₹52,900",
+  "Sale_Price": "₹39,999",
+  "Offer": "24% off",
+  "Rating": 4.6,
+  "Total_Ratings": "99,045",
+  "No_of_Reviews": " 8,471",
+  "Space": "128 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Display12MP Rear Camera | 7MP Front CameraA12 Bionic Chip ProcessoriOS 13 CompatibleBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99a99"
+  },
+  "Product_Name": "Apple iPhone XR (Blue, 128 GB) (Includes EarPods, Power Adapter)",
+  "Actual_Price": "₹52,900",
+  "Sale_Price": "₹39,999",
+  "Offer": "24% off",
+  "Rating": 4.6,
+  "Total_Ratings": "99,045",
+  "No_of_Reviews": " 8,471",
+  "Space": "128 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Display12MP Rear Camera | 7MP Front CameraA12 Bionic Chip ProcessoriOS 13 CompatibleBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99a9a"
+  },
+  "Product_Name": "APPLE iPhone 12 (White, 128 GB)",
+  "Actual_Price": "₹70,900",
+  "Sale_Price": "₹64,999",
+  "Offer": "8% off",
+  "Rating": 4.7,
+  "Total_Ratings": "1,56,242",
+  "No_of_Reviews": " 10,698",
+  "Space": "128 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Super Retina XDR Display12MP + 12MP | 12MP Front CameraA14 Bionic Chip with Next Generation Neural Engine ProcessorCeramic ShieldIndustry-leading IP68 Water ResistanceAll Screen OLED Display12MP TrueDepth Front Camera with Night Mode, 4K Dolby Vision HDR RecordingBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99a9b"
+  },
+  "Product_Name": "APPLE iPhone XR ((PRODUCT)RED, 64 GB)",
+  "Actual_Price": "₹47,900",
+  "Sale_Price": "₹34,999",
+  "Offer": "26% off",
+  "Rating": 4.6,
+  "Total_Ratings": "99,045",
+  "No_of_Reviews": " 8,471",
+  "Space": "64 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Display12MP Rear Camera | 7MP Front CameraA12 Bionic Chip ProcessorWater and Dust Resistant (1 meter for Upto 30 minutes, IP67)Face ID for Secure AuthenticationFast-charge CapableBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99a9c"
+  },
+  "Product_Name": "APPLE iPhone 12 Mini (Red, 64 GB)",
+  "Actual_Price": "₹59,900",
+  "Sale_Price": "₹41,999",
+  "Offer": "29% off",
+  "Rating": 4.5,
+  "Total_Ratings": "84,015",
+  "No_of_Reviews": " 6,743",
+  "Space": "64 GB ",
+  "Specifications": "13.72 cm (5.4 inch) Super Retina XDR Display12MP + 12MP | 12MP Front CameraA14 Bionic Chip with Next Generation Neural Engine ProcessorCeramic ShieldIndustry-leading IP68 Water ResistanceAll Screen OLED Display12MP TrueDepth Front Camera with Night Mode, 4K Dolby Vision HDR RecordingBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99a9d"
+  },
+  "Product_Name": "APPLE iPhone XR (Black, 64 GB)",
+  "Actual_Price": "₹47,900",
+  "Sale_Price": "₹34,999",
+  "Offer": "26% off",
+  "Rating": 4.6,
+  "Total_Ratings": "99,045",
+  "No_of_Reviews": " 8,471",
+  "Space": "64 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Display12MP Rear Camera | 7MP Front CameraA12 Bionic Chip ProcessorWater and Dust Resistant (1 meter for Upto 30 minutes, IP67)Face ID for Secure AuthenticationFast-charge CapableBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99a9e"
+  },
+  "Product_Name": "APPLE iPhone 12 (Green, 128 GB)",
+  "Actual_Price": "₹70,900",
+  "Sale_Price": "₹64,999",
+  "Offer": "8% off",
+  "Rating": 4.7,
+  "Total_Ratings": "1,56,242",
+  "No_of_Reviews": " 10,698",
+  "Space": "128 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Super Retina XDR Display12MP + 12MP | 12MP Front CameraA14 Bionic Chip with Next Generation Neural Engine ProcessorCeramic ShieldIndustry-leading IP68 Water ResistanceAll Screen OLED Display12MP TrueDepth Front Camera with Night Mode, 4K Dolby Vision HDR RecordingBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99a9f"
+  },
+  "Product_Name": "APPLE iPhone 12 (Purple, 64 GB)",
+  "Actual_Price": "₹65,900",
+  "Sale_Price": "₹52,999",
+  "Offer": "19% off",
+  "Rating": 4.7,
+  "Total_Ratings": "1,56,242",
+  "No_of_Reviews": " 10,698",
+  "Space": "64 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Super Retina XDR Display12MP + 12MP | 12MP Front CameraA14 Bionic Chip with Next Generation Neural Engine ProcessorCeramic ShieldIndustry-leading IP68 Water ResistanceAll Screen OLED Display12MP TrueDepth Front Camera with Night Mode, 4K Dolby Vision HDR RecordingBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99aa0"
+  },
+  "Product_Name": "APPLE iPhone 12 (Black, 128 GB)",
+  "Actual_Price": "₹70,900",
+  "Sale_Price": "₹64,999",
+  "Offer": "8% off",
+  "Rating": 4.7,
+  "Total_Ratings": "1,56,242",
+  "No_of_Reviews": " 10,698",
+  "Space": "128 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Super Retina XDR Display12MP + 12MP | 12MP Front CameraA14 Bionic Chip with Next Generation Neural Engine ProcessorCeramic ShieldIndustry-leading IP68 Water ResistanceAll Screen OLED Display12MP TrueDepth Front Camera with Night Mode, 4K Dolby Vision HDR RecordingBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99aa1"
+  },
+  "Product_Name": "Apple iPhone XR (Blue, 128 GB) (Includes EarPods, Power Adapter)",
+  "Actual_Price": "₹52,900",
+  "Sale_Price": "₹39,999",
+  "Offer": "24% off",
+  "Rating": 4.6,
+  "Total_Ratings": "99,045",
+  "No_of_Reviews": " 8,471",
+  "Space": "128 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Display12MP Rear Camera | 7MP Front CameraA12 Bionic Chip ProcessoriOS 13 CompatibleBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99aa2"
+  },
+  "Product_Name": "APPLE iPhone 12 Mini (White, 256 GB)",
+  "Actual_Price": "₹74,900",
+  "Sale_Price": "₹64,999",
+  "Offer": "13% off",
+  "Rating": 4.5,
+  "Total_Ratings": "84,015",
+  "No_of_Reviews": " 6,743",
+  "Space": "256 GB ",
+  "Specifications": "13.72 cm (5.4 inch) Super Retina XDR Display12MP + 12MP | 12MP Front CameraA14 Bionic Chip with Next Generation Neural Engine ProcessorCeramic ShieldIndustry-leading IP68 Water ResistanceAll Screen OLED Display12MP TrueDepth Front Camera with Night Mode, 4K Dolby Vision HDR RecordingBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99aa3"
+  },
+  "Product_Name": "APPLE iPhone 12 (Green, 64 GB)",
+  "Actual_Price": "₹65,900",
+  "Sale_Price": "₹52,999",
+  "Offer": "19% off",
+  "Rating": 4.7,
+  "Total_Ratings": "1,56,242",
+  "No_of_Reviews": " 10,698",
+  "Space": "64 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Super Retina XDR Display12MP + 12MP | 12MP Front CameraA14 Bionic Chip with Next Generation Neural Engine ProcessorCeramic ShieldIndustry-leading IP68 Water ResistanceAll Screen OLED Display12MP TrueDepth Front Camera with Night Mode, 4K Dolby Vision HDR RecordingBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99aa4"
+  },
+  "Product_Name": "APPLE iPhone 12 Mini (Red, 128 GB)",
+  "Actual_Price": "₹64,900",
+  "Sale_Price": "₹54,999",
+  "Offer": "15% off",
+  "Rating": 4.5,
+  "Total_Ratings": "84,015",
+  "No_of_Reviews": " 6,743",
+  "Space": "128 GB ",
+  "Specifications": "13.72 cm (5.4 inch) Super Retina XDR Display12MP + 12MP | 12MP Front CameraA14 Bionic Chip with Next Generation Neural Engine ProcessorCeramic ShieldIndustry-leading IP68 Water ResistanceAll Screen OLED Display12MP TrueDepth Front Camera with Night Mode, 4K Dolby Vision HDR RecordingBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99aa5"
+  },
+  "Product_Name": "APPLE iPhone 11 (Yellow, 64 GB)",
+  "Actual_Price": "₹49,900",
+  "Sale_Price": "₹46,499",
+  "Offer": "6% off",
+  "Rating": 4.6,
+  "Total_Ratings": "78,000",
+  "No_of_Reviews": " 5,889",
+  "Space": "64 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Liquid Retina HD Display12MP + 12MP | 12MP Front CameraA13 Bionic Chip ProcessorBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99aa6"
+  },
+  "Product_Name": "APPLE iPhone 6 Plus (Silver, 128 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹48,999",
+  "Offer": "No offer",
+  "Rating": 4.5,
+  "Total_Ratings": "1,670",
+  "No_of_Reviews": " 201",
+  "Space": "128 GB ",
+  "Specifications": "13.97 cm (5.5 inch) Retina HD Display8MP Rear Camera | 1.2MP Front CameraA8 Chip with 64-bit Architecture and M8 Motion Co-processor1 Year Manufacturer Warranty"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99aa7"
+  },
+  "Product_Name": "APPLE iPhone 11 (Green, 64 GB)",
+  "Actual_Price": "₹49,900",
+  "Sale_Price": "₹46,499",
+  "Offer": "6% off",
+  "Rating": 4.6,
+  "Total_Ratings": "78,000",
+  "No_of_Reviews": " 5,889",
+  "Space": "64 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Liquid Retina HD Display12MP + 12MP | 12MP Front CameraA13 Bionic Chip ProcessorBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99aa8"
+  },
+  "Product_Name": "Apple iPhone SE (White, 64 GB) (Includes EarPods, Power Adapter)",
+  "Actual_Price": "₹39,900",
+  "Sale_Price": "₹27,999",
+  "Offer": "29% off",
+  "Rating": 4.5,
+  "Total_Ratings": "1,41,146",
+  "No_of_Reviews": " 11,244",
+  "Space": "64 GB ",
+  "Specifications": "11.94 cm (4.7 inch) Retina HD Display12MP Rear Camera | 7MP Front CameraA13 Bionic Chip with 3rd Gen Neural Engine ProcessorWater and Dust Resistant (1 meter for Upto 30 minutes, IP67)Fast Charge CapableWireless charging (Works with Qi Chargers | Qi Chargers are Sold SeparatelyBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99aa9"
+  },
+  "Product_Name": "APPLE iPhone 6s Plus (Silver, 16 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹49,999",
+  "Offer": "No offer",
+  "Rating": 4.4,
+  "Total_Ratings": "18,848",
+  "No_of_Reviews": " 2,392",
+  "Space": "16 GB ",
+  "Specifications": "13.97 cm (5.5 inch) Retina HD Display12MP Rear Camera | 5MP Front CameraApple A9 64-bit processor and Embedded M9 Motion Co-processorBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99aaa"
+  },
+  "Product_Name": "Apple iPhone SE (Black, 256 GB) (Includes EarPods, Power Adapter)",
+  "Actual_Price": "₹54,900",
+  "Sale_Price": "₹42,999",
+  "Offer": "21% off",
+  "Rating": 4.5,
+  "Total_Ratings": "1,41,146",
+  "No_of_Reviews": " 11,244",
+  "Space": "256 GB ",
+  "Specifications": "11.94 cm (4.7 inch) Retina HD Display12MP Rear Camera | 7MP Front CameraA13 Bionic Chip with 3rd Gen Neural Engine ProcessorWater and Dust Resistant (1 meter for Upto 30 minutes, IP67)Fast Charge CapableWireless charging (Works with Qi Chargers | Qi Chargers are Sold SeparatelyBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99aab"
+  },
+  "Product_Name": "Apple iPhone XR (Yellow, 64 GB) (Includes EarPods, Power Adapter)",
+  "Actual_Price": "₹47,900",
+  "Sale_Price": "₹34,999",
+  "Offer": "26% off",
+  "Rating": 4.6,
+  "Total_Ratings": "99,045",
+  "No_of_Reviews": " 8,471",
+  "Space": "64 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Display12MP Rear Camera | 7MP Front CameraA12 Bionic Chip ProcessoriOS 13 CompatibleBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99aac"
+  },
+  "Product_Name": "APPLE iPhone 12 (Green, 256 GB)",
+  "Actual_Price": "₹80,900",
+  "Sale_Price": "₹74,999",
+  "Offer": "7% off",
+  "Rating": 4.7,
+  "Total_Ratings": "1,56,242",
+  "No_of_Reviews": " 10,698",
+  "Space": "256 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Super Retina XDR Display12MP + 12MP | 12MP Front CameraA14 Bionic Chip with Next Generation Neural Engine ProcessorCeramic ShieldIndustry-leading IP68 Water ResistanceAll Screen OLED Display12MP TrueDepth Front Camera with Night Mode, 4K Dolby Vision HDR RecordingBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99aad"
+  },
+  "Product_Name": "APPLE iPhone 12 Pro Max (Graphite, 256 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹1,29,900",
+  "Offer": "No offer",
+  "Rating": 4.6,
+  "Total_Ratings": "1,202",
+  "No_of_Reviews": " 98",
+  "Space": "256 GB ",
+  "Specifications": "17.02 cm (6.7 inch) Super Retina XDR Display12MP + 12MP + 12MP | 12MP Front CameraA14 Bionic Chip with Next Generation Neural Engine ProcessorCeramic Shield | Industry-leading IP68 Water ResistanceAll Screen OLED DisplayLiDAR Scanner for Improved AR Experiences, Night Mode PortraitsBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99aae"
+  },
+  "Product_Name": "APPLE iPhone 12 Mini (Purple, 128 GB)",
+  "Actual_Price": "₹64,900",
+  "Sale_Price": "₹54,999",
+  "Offer": "15% off",
+  "Rating": 4.5,
+  "Total_Ratings": "84,015",
+  "No_of_Reviews": " 6,743",
+  "Space": "128 GB ",
+  "Specifications": "13.72 cm (5.4 inch) Super Retina XDR Display12MP + 12MP | 12MP Front CameraA14 Bionic Chip with Next Generation Neural Engine ProcessorCeramic ShieldIP68 Water ResistanceAll Screen OLED DisplayBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99aaf"
+  },
+  "Product_Name": "APPLE iPhone 6 (Space Grey, 64 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹44,999",
+  "Offer": "No offer",
+  "Rating": 4.4,
+  "Total_Ratings": "1,45,616",
+  "No_of_Reviews": " 16,341",
+  "Space": "64 GB ",
+  "Specifications": "11.94 cm (4.7 inch) Retina HD Display8MP Rear Camera | 1.2MP Front CameraA8 Chip with 64-bit Architecture and M8 Motion Co-processor1 Year Manufacturer Warranty"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99ab0"
+  },
+  "Product_Name": "Apple iPhone XR (Black, 256 GB) (Includes EarPods, Power Adapter)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹91,900",
+  "Offer": "No offer",
+  "Rating": 4.6,
+  "Total_Ratings": "99,045",
+  "No_of_Reviews": " 8,471",
+  "Space": "256 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Display12MP Rear Camera | 7MP Front CameraA12 Bionic Chip ProcessorBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99ab1"
+  },
+  "Product_Name": "Apple iPhone XR ((PRODUCT)RED, 256 GB) (Includes EarPods, Power Adapter)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹91,900",
+  "Offer": "No offer",
+  "Rating": 4.6,
+  "Total_Ratings": "99,045",
+  "No_of_Reviews": " 8,471",
+  "Space": "256 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Display12MP Rear Camera | 7MP Front CameraA12 Bionic Chip ProcessorBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99ab2"
+  },
+  "Product_Name": "APPLE iPhone 12 Pro Max (Graphite, 512 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹1,49,900",
+  "Offer": "No offer",
+  "Rating": 4.6,
+  "Total_Ratings": "1,202",
+  "No_of_Reviews": " 98",
+  "Space": "512 GB ",
+  "Specifications": "17.02 cm (6.7 inch) Super Retina XDR Display12MP + 12MP + 12MP | 12MP Front CameraA14 Bionic Chip with Next Generation Neural Engine ProcessorCeramic Shield | Industry-leading IP68 Water ResistanceAll Screen OLED DisplayLiDAR Scanner for Improved AR Experiences, Night Mode PortraitsBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99ab3"
+  },
+  "Product_Name": "APPLE iPhone 12 Pro Max (Graphite, 128 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹1,19,900",
+  "Offer": "No offer",
+  "Rating": 4.6,
+  "Total_Ratings": "1,202",
+  "No_of_Reviews": " 98",
+  "Space": "128 GB ",
+  "Specifications": "17.02 cm (6.7 inch) Super Retina XDR Display12MP + 12MP + 12MP | 12MP Front CameraA14 Bionic Chip with Next Generation Neural Engine ProcessorCeramic Shield | Industry-leading IP68 Water ResistanceAll Screen OLED DisplayLiDAR Scanner for Improved AR Experiences, Night Mode PortraitsBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99ab4"
+  },
+  "Product_Name": "APPLE iPhone 11 (White, 64 GB)",
+  "Actual_Price": "₹49,900",
+  "Sale_Price": "₹46,499",
+  "Offer": "6% off",
+  "Rating": 4.6,
+  "Total_Ratings": "78,000",
+  "No_of_Reviews": " 5,889",
+  "Space": "64 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Liquid Retina HD Display12MP + 12MP | 12MP Front CameraA13 Bionic Chip ProcessorBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99ab5"
+  },
+  "Product_Name": "Apple iPhone 11 (Yellow, 64 GB) (Includes EarPods, Power Adapter)",
+  "Actual_Price": "₹49,900",
+  "Sale_Price": "₹46,499",
+  "Offer": "6% off",
+  "Rating": 4.6,
+  "Total_Ratings": "78,000",
+  "No_of_Reviews": " 5,889",
+  "Space": "64 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Liquid Retina HD Display12MP + 12MP | 12MP Front CameraA13 Bionic Chip ProcessorBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99ab6"
+  },
+  "Product_Name": "APPLE iPhone 6s Plus (Silver, 128 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹70,000",
+  "Offer": "No offer",
+  "Rating": 4.4,
+  "Total_Ratings": "18,848",
+  "No_of_Reviews": " 2,392",
+  "Space": "128 GB ",
+  "Specifications": "13.97 cm (5.5 inch) Retina HD Display12MP Rear Camera | 5MP Front CameraA9 Chip with 64-bit Architecture and M9 Motion Co-processorBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99ab7"
+  },
+  "Product_Name": "APPLE iPhone 11 Pro Max (Midnight Green, 512 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹1,50,800",
+  "Offer": "No offer",
+  "Rating": 4.7,
+  "Total_Ratings": "1,093",
+  "No_of_Reviews": " 100",
+  "Space": "512 GB ",
+  "Specifications": "16.51 cm (6.5 inch) Super Retina XDR Display12MP + 12MP + 12MP | 12MP Front CameraA13 Bionic Chip ProcessorBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99ab8"
+  },
+  "Product_Name": "Apple iPhone 11 (Green, 128 GB) (Includes EarPods, Power Adapter)",
+  "Actual_Price": "₹54,900",
+  "Sale_Price": "₹51,499",
+  "Offer": "6% off",
+  "Rating": 4.6,
+  "Total_Ratings": "78,000",
+  "No_of_Reviews": " 5,889",
+  "Space": "128 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Liquid Retina HD Display12MP + 12MP | 12MP Front CameraA13 Bionic Chip ProcessorBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99ab9"
+  },
+  "Product_Name": "APPLE iPhone 11 Pro Max (Silver, 512 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹1,50,800",
+  "Offer": "No offer",
+  "Rating": 4.7,
+  "Total_Ratings": "1,093",
+  "No_of_Reviews": " 100",
+  "Space": "512 GB ",
+  "Specifications": "16.51 cm (6.5 inch) Super Retina XDR Display12MP + 12MP + 12MP | 12MP Front CameraA13 Bionic Chip ProcessorBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99aba"
+  },
+  "Product_Name": "APPLE iPhone XR (White, 64 GB)",
+  "Actual_Price": "₹47,900",
+  "Sale_Price": "₹34,999",
+  "Offer": "26% off",
+  "Rating": 4.6,
+  "Total_Ratings": "99,045",
+  "No_of_Reviews": " 8,471",
+  "Space": "64 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Display12MP Rear Camera | 7MP Front CameraA12 Bionic Chip ProcessorWater and Dust Resistant (1 meter for Upto 30 minutes, IP67)Face ID for Secure AuthenticationFast-charge CapableBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99abb"
+  },
+  "Product_Name": "Apple iPhone XR (Coral, 256 GB) (Includes EarPods, Power Adapter)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹91,900",
+  "Offer": "No offer",
+  "Rating": 4.6,
+  "Total_Ratings": "99,045",
+  "No_of_Reviews": " 8,471",
+  "Space": "256 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Display12MP Rear Camera | 7MP Front CameraA12 Bionic Chip ProcessorBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99abc"
+  },
+  "Product_Name": "Apple iPhone 11 (Yellow, 256 GB) (Includes EarPods, Power Adapter)",
+  "Actual_Price": "₹64,900",
+  "Sale_Price": "₹61,499",
+  "Offer": "5% off",
+  "Rating": 4.6,
+  "Total_Ratings": "78,000",
+  "No_of_Reviews": " 5,889",
+  "Space": "256 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Liquid Retina HD Display12MP + 12MP | 12MP Front CameraA13 Bionic Chip ProcessorBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99abd"
+  },
+  "Product_Name": "APPLE iPhone 13 Pro Max (Graphite, 512 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹1,59,900",
+  "Offer": "No offer",
+  "Rating": 4.7,
+  "Total_Ratings": "652",
+  "No_of_Reviews": " 69",
+  "Space": "512 GB ",
+  "Specifications": "17.02 cm (6.7 inch) Super Retina XDR Display12MP + 12MP + 12MP | 12MP Front CameraA15 Bionic Chip ProcessorBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99abe"
+  },
+  "Product_Name": "Apple iPhone XR (Blue, 64 GB) (Includes EarPods, Power Adapter)",
+  "Actual_Price": "₹47,900",
+  "Sale_Price": "₹34,999",
+  "Offer": "26% off",
+  "Rating": 4.6,
+  "Total_Ratings": "99,045",
+  "No_of_Reviews": " 8,471",
+  "Space": "64 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Display12MP Rear Camera | 7MP Front CameraA12 Bionic Chip ProcessoriOS 13 CompatibleBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99abf"
+  },
+  "Product_Name": "APPLE iPhone 6 (Silver, 16 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹36,990",
+  "Offer": "No offer",
+  "Rating": 4.4,
+  "Total_Ratings": "1,45,616",
+  "No_of_Reviews": " 16,341",
+  "Space": "16 GB ",
+  "Specifications": "11.94 cm (4.7 inch) Retina HD Display8MP Rear Camera | 1.2MP Front CameraApple A8 64-bit processor and M8 Motion Co-processor1 Year Manufacturer Warranty"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99ac0"
+  },
+  "Product_Name": "Apple iPhone XR (Coral, 64 GB) (Includes EarPods, Power Adapter)",
+  "Actual_Price": "₹47,900",
+  "Sale_Price": "₹34,999",
+  "Offer": "26% off",
+  "Rating": 4.6,
+  "Total_Ratings": "99,045",
+  "No_of_Reviews": " 8,471",
+  "Space": "64 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Display12MP Rear Camera | 7MP Front CameraA12 Bionic Chip ProcessoriOS 13 CompatibleBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99ac1"
+  },
+  "Product_Name": "Apple iPhone XR (White, 256 GB) (Includes EarPods, Power Adapter)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹91,900",
+  "Offer": "No offer",
+  "Rating": 4.6,
+  "Total_Ratings": "99,045",
+  "No_of_Reviews": " 8,471",
+  "Space": "256 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Display12MP Rear Camera | 7MP Front CameraA12 Bionic Chip ProcessorBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99ac2"
+  },
+  "Product_Name": "APPLE iPhone 7 (Jet Black, 32 GB)",
+  "Actual_Price": "₹31,500",
+  "Sale_Price": "₹24,999",
+  "Offer": "20% off",
+  "Rating": 4.5,
+  "Total_Ratings": "94,933",
+  "No_of_Reviews": " 9,226",
+  "Space": "32 GB ",
+  "Specifications": "11.94 cm (4.7 inch) Retina HD Display12MP Rear Camera | 7MP Front CameraApple A10 Fusion 64-bit processor and Embedded M10 Motion Co-processoriOS 13 CompatibleBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99ac3"
+  },
+  "Product_Name": "APPLE iPhone 6s Plus (Gold, 64 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹59,999",
+  "Offer": "No offer",
+  "Rating": 4.4,
+  "Total_Ratings": "18,848",
+  "No_of_Reviews": " 2,392",
+  "Space": "64 GB ",
+  "Specifications": "13.97 cm (5.5 inch) Retina HD Display12MP Rear Camera | 5MP Front CameraA9 Chip with 64-bit Architecture and M9 Motion Co-processorBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99ac4"
+  },
+  "Product_Name": "APPLE iPhone 7 (Black, 32 GB)",
+  "Actual_Price": "₹31,500",
+  "Sale_Price": "₹24,999",
+  "Offer": "20% off",
+  "Rating": 4.5,
+  "Total_Ratings": "94,933",
+  "No_of_Reviews": " 9,226",
+  "Space": "32 GB ",
+  "Specifications": "11.94 cm (4.7 inch) Retina HD Display12MP Rear Camera | 7MP Front CameraApple A10 Fusion 64-bit processor and Embedded M10 Motion Co-processoriOS 13 CompatibleBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99ac5"
+  },
+  "Product_Name": "APPLE iPhone 6 Plus (Space Grey, 64 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹48,999",
+  "Offer": "No offer",
+  "Rating": 4.5,
+  "Total_Ratings": "1,670",
+  "No_of_Reviews": " 201",
+  "Space": "64 GB ",
+  "Specifications": "13.97 cm (5.5 inch) Retina HD Display8MP Rear Camera | 1.2MP Front CameraA8 Chip with 64-bit Architecture and M8 Motion Co-processor1 Year Manufacturer Warranty"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99ac6"
+  },
+  "Product_Name": "APPLE iPhone 6s Plus (Gold, 16 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹49,999",
+  "Offer": "No offer",
+  "Rating": 4.4,
+  "Total_Ratings": "18,848",
+  "No_of_Reviews": " 2,392",
+  "Space": "16 GB ",
+  "Specifications": "13.97 cm (5.5 inch) Retina HD Display12MP Rear Camera | 5MP Front CameraA9 Chip with 64-bit Architecture and M9 Motion Co-processorBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99ac7"
+  },
+  "Product_Name": "APPLE iPhone 11 (Black, 256 GB)",
+  "Actual_Price": "₹64,900",
+  "Sale_Price": "₹61,499",
+  "Offer": "5% off",
+  "Rating": 4.6,
+  "Total_Ratings": "78,000",
+  "No_of_Reviews": " 5,889",
+  "Space": "256 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Liquid Retina HD Display12MP + 12MP | 12MP Front CameraA13 Bionic Chip ProcessorBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99ac8"
+  },
+  "Product_Name": "APPLE iPhone 6 (Space Grey, 32 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹30,780",
+  "Offer": "No offer",
+  "Rating": 4.4,
+  "Total_Ratings": "1,45,616",
+  "No_of_Reviews": " 16,341",
+  "Space": "32 GB ",
+  "Specifications": "11.94 cm (4.7 inch) Retina HD Display8MP Rear Camera | 1.2MP Front CameraApple A8 64-bit processor and M8 Motion Co-processorBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99ac9"
+  },
+  "Product_Name": "APPLE iPhone 6 Plus (Silver, 64 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹48,999",
+  "Offer": "No offer",
+  "Rating": 4.5,
+  "Total_Ratings": "1,670",
+  "No_of_Reviews": " 201",
+  "Space": "64 GB ",
+  "Specifications": "13.97 cm (5.5 inch) Retina HD Display8MP Rear Camera | 1.2MP Front CameraA8 Chip with 64-bit Architecture and M8 Motion Co-processor1 Year Manufacturer Warranty"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99aca"
+  },
+  "Product_Name": "APPLE iPhone XS Max (Silver, 512 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹1,44,900",
+  "Offer": "No offer",
+  "Rating": 4.6,
+  "Total_Ratings": "1,454",
+  "No_of_Reviews": " 149",
+  "Space": "512 GB ",
+  "Specifications": "16.51 cm (6.5 inch) Super Retina HD Display12MP + 12MP | 7MP Front CameraA12 Bionic Chip Processor1 Year Limited Warranty for Products and Accessories"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99acb"
+  },
+  "Product_Name": "APPLE iPhone 11 Pro (Space Grey, 512 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹1,40,300",
+  "Offer": "No offer",
+  "Rating": 4.6,
+  "Total_Ratings": "8,569",
+  "No_of_Reviews": " 625",
+  "Space": "512 GB ",
+  "Specifications": "14.73 cm (5.8 inch) Super Retina XDR Display12MP + 12MP + 12MP | 12MP Front CameraA13 Bionic Chip ProcessorBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99acc"
+  },
+  "Product_Name": "Apple iPhone XR (Black, 64 GB) (Includes EarPods, Power Adapter)",
+  "Actual_Price": "₹47,900",
+  "Sale_Price": "₹34,999",
+  "Offer": "26% off",
+  "Rating": 4.6,
+  "Total_Ratings": "99,045",
+  "No_of_Reviews": " 8,471",
+  "Space": "64 GB ",
+  "Specifications": "15.5 cm (6.102 inch) Display12MP Rear Camera | 7MP Front CameraA12 Bionic Chip ProcessoriOS 13 CompatibleBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99acd"
+  },
+  "Product_Name": "APPLE iPhone XS (Gold, 256 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹1,03,900",
+  "Offer": "No offer",
+  "Rating": 4.7,
+  "Total_Ratings": "11,960",
+  "No_of_Reviews": " 874",
+  "Space": "256 GB ",
+  "Specifications": "14.73 cm (5.8 inch) Super Retina HD Display12MP + 12MP | 7MP Front CameraA12 Bionic Chip Processor1 Year Limited Warranty for Products and Accessories"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99ace"
+  },
+  "Product_Name": "APPLE iPhone 6s (Gold, 128 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹55,999",
+  "Offer": "No offer",
+  "Rating": 4.5,
+  "Total_Ratings": "93,085",
+  "No_of_Reviews": " 9,280",
+  "Space": "128 GB ",
+  "Specifications": "11.94 cm (4.7 inch) Retina HD Display12MP Rear Camera | 5MP Front CameraA9 Chip with 64-bit Architecture and M9 Motion Co-processorBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99acf"
+  },
+  "Product_Name": "APPLE iPhone 5s (Silver, 16 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹25,000",
+  "Offer": "No offer",
+  "Rating": 4.4,
+  "Total_Ratings": "62,725",
+  "No_of_Reviews": " 7,383",
+  "Space": "16 GB ",
+  "Specifications": "10.16 cm (4 inch) Retina Display8MP Rear Camera | 1.2MP Front CameraApple A7 64-bit processor and M7 Motion Co-processor1 Year Manufacturer Warranty"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99ad0"
+  },
+  "Product_Name": "APPLE iPhone 8 (PRODUCT)RED (Red, 64 GB)",
+  "Actual_Price": "₹39,900",
+  "Sale_Price": "₹38,999",
+  "Offer": "2% off",
+  "Rating": 4.7,
+  "Total_Ratings": "113",
+  "No_of_Reviews": " 10",
+  "Space": "64 GB ",
+  "Specifications": "11.94 cm (4.7 inch) Retina HD Display12MP Rear Camera | 7MP Front CameraA11 Bionic Chip with 64-bit Architecture, Neural Engine, Embedded M11 Motion Coprocessor ProcessoriOS 13 CompatibleBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99ad1"
+  },
+  "Product_Name": "APPLE iPhone 11 (Purple, 64 GB)",
+  "Actual_Price": "₹49,900",
+  "Sale_Price": "₹46,499",
+  "Offer": "6% off",
+  "Rating": 4.6,
+  "Total_Ratings": "78,000",
+  "No_of_Reviews": " 5,889",
+  "Space": "64 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Liquid Retina HD Display12MP + 12MP | 12MP Front CameraA13 Bionic Chip ProcessorBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99ad2"
+  },
+  "Product_Name": "APPLE iPhone 11 Pro (Silver, 256 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹1,21,300",
+  "Offer": "No offer",
+  "Rating": 4.6,
+  "Total_Ratings": "8,569",
+  "No_of_Reviews": " 625",
+  "Space": "256 GB ",
+  "Specifications": "14.73 cm (5.8 inch) Super Retina XDR Display12MP + 12MP + 12MP | 12MP Front CameraA13 Bionic Chip ProcessorBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99ad3"
+  },
+  "Product_Name": "APPLE iPhone XS (Space Grey, 256 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹1,03,900",
+  "Offer": "No offer",
+  "Rating": 4.7,
+  "Total_Ratings": "11,960",
+  "No_of_Reviews": " 874",
+  "Space": "256 GB ",
+  "Specifications": "14.73 cm (5.8 inch) Super Retina HD Display12MP + 12MP | 7MP Front CameraA12 Bionic Chip Processor1 Year Limited Warranty for Products and Accessories"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99ad4"
+  },
+  "Product_Name": "APPLE iPhone 11 Pro Max (Gold, 256 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹1,31,900",
+  "Offer": "No offer",
+  "Rating": 4.7,
+  "Total_Ratings": "1,093",
+  "No_of_Reviews": " 100",
+  "Space": "256 GB ",
+  "Specifications": "16.51 cm (6.5 inch) Super Retina XDR Display12MP + 12MP + 12MP | 12MP Front CameraA13 Bionic Chip ProcessorBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99ad5"
+  },
+  "Product_Name": "APPLE iPhone 6 (Silver, 128 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹71,500",
+  "Offer": "No offer",
+  "Rating": 4.4,
+  "Total_Ratings": "1,45,616",
+  "No_of_Reviews": " 16,341",
+  "Space": "128 GB ",
+  "Specifications": "11.94 cm (4.7 inch) Retina HD Display8MP Rear Camera | 1.2MP Front CameraA8 Chip with 64-bit Architecture and M8 Motion Co-processor1 Year Manufacturer Warranty"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99ad6"
+  },
+  "Product_Name": "APPLE iPhone 6 (Grey, 128 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹71,500",
+  "Offer": "No offer",
+  "Rating": 4.4,
+  "Total_Ratings": "1,45,616",
+  "No_of_Reviews": " 16,341",
+  "Space": "128 GB ",
+  "Specifications": "11.94 cm (4.7 inch) Retina HD Display8MP Rear Camera | 1.2MP Front CameraApple A8 64-bit processor and M8 Motion Co-processor1 Year Manufacturer Warranty"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99ad7"
+  },
+  "Product_Name": "Apple iPhone 11 (White, 256 GB) (Includes EarPods, Power Adapter)",
+  "Actual_Price": "₹64,900",
+  "Sale_Price": "₹61,499",
+  "Offer": "5% off",
+  "Rating": 4.6,
+  "Total_Ratings": "78,000",
+  "No_of_Reviews": " 5,889",
+  "Space": "256 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Liquid Retina HD Display12MP + 12MP | 12MP Front CameraA13 Bionic Chip ProcessorBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99ad8"
+  },
+  "Product_Name": "APPLE IPhone 4 (Black, 8 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹22,900",
+  "Offer": "No offer",
+  "Rating": 4.1,
+  "Total_Ratings": "1,092",
+  "No_of_Reviews": " 185",
+  "Space": "8 GB ",
+  "Specifications": "8.89 cm (3.5 inch) NA Display5MP Rear Camera | 0.3MP Front Camera1 Year Manufacturer Warranty"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99ad9"
+  },
+  "Product_Name": "APPLE iPhone XS Max (Space Grey, 64 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹1,09,900",
+  "Offer": "No offer",
+  "Rating": 4.6,
+  "Total_Ratings": "1,454",
+  "No_of_Reviews": " 149",
+  "Space": "64 GB ",
+  "Specifications": "16.51 cm (6.5 inch) Super Retina HD Display12MP + 12MP | 7MP Front CameraA12 Bionic Chip ProcessoriOS 13 Compatible1 Year Limited Warranty for Products and Accessories"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99ada"
+  },
+  "Product_Name": "APPLE iPhone XS (Silver, 64 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹89,900",
+  "Offer": "No offer",
+  "Rating": 4.7,
+  "Total_Ratings": "11,960",
+  "No_of_Reviews": " 874",
+  "Space": "64 GB ",
+  "Specifications": "14.73 cm (5.8 inch) Super Retina HD Display12MP + 12MP | 7MP Front CameraA12 Bionic Chip Processor1 Year Limited Warranty for Products and Accessories"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99adb"
+  },
+  "Product_Name": "APPLE iPhone X (Space Gray, 256 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹1,06,900",
+  "Offer": "No offer",
+  "Rating": 4.6,
+  "Total_Ratings": "10,987",
+  "No_of_Reviews": " 876",
+  "Space": "256 GB ",
+  "Specifications": "14.73 cm (5.8 inch) Super Retina HD Display12MP + 12MP | 7MP Front CameraA11 Bionic Chip with 64-bit Architecture, Neural Engine, Embedded M11 Motion Coprocessor ProcessorBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99adc"
+  },
+  "Product_Name": "APPLE iPhone 7 Plus (Black, 128 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹42,900",
+  "Offer": "No offer",
+  "Rating": 4.5,
+  "Total_Ratings": "29,800",
+  "No_of_Reviews": " 3,000",
+  "Space": "128 GB ",
+  "Specifications": "13.94 cm (5.488 inch) Retina HD Display12MP + 12MP | 7MP Front CameraApple A10 Fusion 64-bit processor and Embedded M10 Motion Co-processorBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99add"
+  },
+  "Product_Name": "APPLE iPhone 6s (Rose Gold, 64 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹72,000",
+  "Offer": "No offer",
+  "Rating": 4.5,
+  "Total_Ratings": "93,085",
+  "No_of_Reviews": " 9,280",
+  "Space": "64 GB ",
+  "Specifications": "11.94 cm (4.7 inch) Retina HD Display12MP Rear Camera | 5MP Front CameraA9 Chip with 64-bit Architecture and M9 Motion Co-processorBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99ade"
+  },
+  "Product_Name": "APPLE iPhone 13 Pro (Silver, 512 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹1,49,900",
+  "Offer": "No offer",
+  "Rating": 4.7,
+  "Total_Ratings": "448",
+  "No_of_Reviews": " 42",
+  "Space": "512 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Super Retina XDR Display12MP + 12MP + 12MP | 12MP Front CameraA15 Bionic Chip ProcessorBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99adf"
+  },
+  "Product_Name": "APPLE iPhone 7 Plus (Gold, 32 GB)",
+  "Actual_Price": "₹37,900",
+  "Sale_Price": "₹36,999",
+  "Offer": "2% off",
+  "Rating": 4.5,
+  "Total_Ratings": "29,800",
+  "No_of_Reviews": " 3,000",
+  "Space": "32 GB ",
+  "Specifications": "13.94 cm (5.488 inch) Retina HD Display12MP + 12MP | 7MP Front CameraApple A10 Fusion 64-bit processor and Embedded M10 Motion Co-processoriOS 13 CompatibleBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99ae0"
+  },
+  "Product_Name": "APPLE iPhone 7 Plus (Gold, 128 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹42,900",
+  "Offer": "No offer",
+  "Rating": 4.5,
+  "Total_Ratings": "29,800",
+  "No_of_Reviews": " 3,000",
+  "Space": "128 GB ",
+  "Specifications": "13.94 cm (5.488 inch) Retina HD Display12MP + 12MP | 7MP Front CameraApple A10 Fusion 64-bit processor and Embedded M10 Motion Co-processorBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99ae1"
+  },
+  "Product_Name": "APPLE iPhone 8 Plus (Gold, 256 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹84,900",
+  "Offer": "No offer",
+  "Rating": 4.6,
+  "Total_Ratings": "3,443",
+  "No_of_Reviews": " 355",
+  "Space": "256 GB ",
+  "Specifications": "13.97 cm (5.5 inch) Retina HD Display12MP + 12MP | 7MP Front CameraA11 Bionic Chip with 64-bit Architecture, Neural Engine, Embedded M11 Motion Coprocessor ProcessorBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99ae2"
+  },
+  "Product_Name": "APPLE iPhone 5s (Gold, 16 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹14,999",
+  "Offer": "No offer",
+  "Rating": 4.4,
+  "Total_Ratings": "62,725",
+  "No_of_Reviews": " 7,383",
+  "Space": "16 GB ",
+  "Specifications": "10.16 cm (4 inch) Retina Display8MP Rear Camera | 1.2MP Front CameraApple A7 64-bit processor and M7 Motion Co-processor1 Year for Mobile & Accessories"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99ae3"
+  },
+  "Product_Name": "Apple iPhone XR (Blue, 256 GB) (Includes EarPods, Power Adapter)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹91,900",
+  "Offer": "No offer",
+  "Rating": 4.6,
+  "Total_Ratings": "99,045",
+  "No_of_Reviews": " 8,471",
+  "Space": "256 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Display12MP Rear Camera | 7MP Front CameraA12 Bionic Chip ProcessorBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99ae4"
+  },
+  "Product_Name": "APPLE iPhone 7 (Silver, 32 GB)",
+  "Actual_Price": "₹31,500",
+  "Sale_Price": "₹24,999",
+  "Offer": "20% off",
+  "Rating": 4.5,
+  "Total_Ratings": "94,933",
+  "No_of_Reviews": " 9,226",
+  "Space": "32 GB ",
+  "Specifications": "11.94 cm (4.7 inch) Retina HD Display12MP Rear Camera | 7MP Front CameraApple A10 Fusion 64-bit processor and Embedded M10 Motion Co-processoriOS 13 CompatibleBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99ae5"
+  },
+  "Product_Name": "APPLE iPhone XS Max (Silver, 64 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹1,09,900",
+  "Offer": "No offer",
+  "Rating": 4.6,
+  "Total_Ratings": "1,454",
+  "No_of_Reviews": " 149",
+  "Space": "64 GB ",
+  "Specifications": "16.51 cm (6.5 inch) Super Retina HD Display12MP + 12MP | 7MP Front CameraA12 Bionic Chip ProcessoriOS 13 Compatible1 Year Limited Warranty for Products and Accessories"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99ae6"
+  },
+  "Product_Name": "Apple iPhone SE (Black, 64 GB) (Includes EarPods, Power Adapter)",
+  "Actual_Price": "₹39,900",
+  "Sale_Price": "₹27,999",
+  "Offer": "29% off",
+  "Rating": 4.5,
+  "Total_Ratings": "1,41,146",
+  "No_of_Reviews": " 11,244",
+  "Space": "64 GB ",
+  "Specifications": "11.94 cm (4.7 inch) Retina HD Display12MP Rear Camera | 7MP Front CameraA13 Bionic Chip with 3rd Gen Neural Engine ProcessorWater and Dust Resistant (1 meter for Upto 30 minutes, IP67)Fast Charge CapableWireless charging (Works with Qi Chargers | Qi Chargers are Sold SeparatelyBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99ae7"
+  },
+  "Product_Name": "Apple iPhone 11 (Purple, 64 GB) (Includes EarPods, Power Adapter)",
+  "Actual_Price": "₹49,900",
+  "Sale_Price": "₹46,499",
+  "Offer": "6% off",
+  "Rating": 4.6,
+  "Total_Ratings": "78,000",
+  "No_of_Reviews": " 5,889",
+  "Space": "64 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Liquid Retina HD Display12MP + 12MP | 12MP Front CameraA13 Bionic Chip ProcessorBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99ae8"
+  },
+  "Product_Name": "Apple iPhone 11 (Green, 128 GB) (Includes EarPods, Power Adapter)",
+  "Actual_Price": "₹54,900",
+  "Sale_Price": "₹51,499",
+  "Offer": "6% off",
+  "Rating": 4.6,
+  "Total_Ratings": "78,000",
+  "No_of_Reviews": " 5,889",
+  "Space": "128 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Liquid Retina HD Display12MP + 12MP | 12MP Front CameraA13 Bionic Chip ProcessorBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99ae9"
+  },
+  "Product_Name": "APPLE iPhone 11 Pro Max (Silver, 512 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹1,50,800",
+  "Offer": "No offer",
+  "Rating": 4.7,
+  "Total_Ratings": "1,093",
+  "No_of_Reviews": " 100",
+  "Space": "512 GB ",
+  "Specifications": "16.51 cm (6.5 inch) Super Retina XDR Display12MP + 12MP + 12MP | 12MP Front CameraA13 Bionic Chip ProcessorBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99aea"
+  },
+  "Product_Name": "APPLE iPhone XR (White, 64 GB)",
+  "Actual_Price": "₹47,900",
+  "Sale_Price": "₹34,999",
+  "Offer": "26% off",
+  "Rating": 4.6,
+  "Total_Ratings": "99,045",
+  "No_of_Reviews": " 8,471",
+  "Space": "64 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Display12MP Rear Camera | 7MP Front CameraA12 Bionic Chip ProcessorWater and Dust Resistant (1 meter for Upto 30 minutes, IP67)Face ID for Secure AuthenticationFast-charge CapableBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99aeb"
+  },
+  "Product_Name": "Apple iPhone XR (Coral, 256 GB) (Includes EarPods, Power Adapter)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹91,900",
+  "Offer": "No offer",
+  "Rating": 4.6,
+  "Total_Ratings": "99,045",
+  "No_of_Reviews": " 8,471",
+  "Space": "256 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Display12MP Rear Camera | 7MP Front CameraA12 Bionic Chip ProcessorBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99aec"
+  },
+  "Product_Name": "Apple iPhone 11 (Yellow, 256 GB) (Includes EarPods, Power Adapter)",
+  "Actual_Price": "₹64,900",
+  "Sale_Price": "₹61,499",
+  "Offer": "5% off",
+  "Rating": 4.6,
+  "Total_Ratings": "78,000",
+  "No_of_Reviews": " 5,889",
+  "Space": "256 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Liquid Retina HD Display12MP + 12MP | 12MP Front CameraA13 Bionic Chip ProcessorBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99aed"
+  },
+  "Product_Name": "APPLE iPhone 13 Pro (Gold, 128 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹1,19,900",
+  "Offer": "No offer",
+  "Rating": 4.7,
+  "Total_Ratings": "448",
+  "No_of_Reviews": " 42",
+  "Space": "128 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Super Retina XDR Display12MP + 12MP + 12MP | 12MP Front CameraA15 Bionic Chip ProcessorBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99aee"
+  },
+  "Product_Name": "APPLE iPhone 6s Plus (Space Grey, 64 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹59,999",
+  "Offer": "No offer",
+  "Rating": 4.4,
+  "Total_Ratings": "18,848",
+  "No_of_Reviews": " 2,392",
+  "Space": "64 GB ",
+  "Specifications": "13.97 cm (5.5 inch) Retina HD Display12MP Rear Camera | 5MP Front CameraA9 Chip with 64-bit Architecture and M9 Motion Co-processorBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99aef"
+  },
+  "Product_Name": "Apple iPhone XR (Yellow, 256 GB) (Includes EarPods, Power Adapter)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹91,900",
+  "Offer": "No offer",
+  "Rating": 4.6,
+  "Total_Ratings": "99,045",
+  "No_of_Reviews": " 8,471",
+  "Space": "256 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Display12MP Rear Camera | 7MP Front CameraA12 Bionic Chip ProcessorBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99af0"
+  },
+  "Product_Name": "Apple iPhone XR (Blue, 64 GB) (Includes EarPods, Power Adapter)",
+  "Actual_Price": "₹47,900",
+  "Sale_Price": "₹34,999",
+  "Offer": "26% off",
+  "Rating": 4.6,
+  "Total_Ratings": "99,045",
+  "No_of_Reviews": " 8,471",
+  "Space": "64 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Display12MP Rear Camera | 7MP Front CameraA12 Bionic Chip ProcessoriOS 13 CompatibleBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99af1"
+  },
+  "Product_Name": "APPLE iPhone 6 (Silver, 16 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹36,990",
+  "Offer": "No offer",
+  "Rating": 4.4,
+  "Total_Ratings": "1,45,616",
+  "No_of_Reviews": " 16,341",
+  "Space": "16 GB ",
+  "Specifications": "11.94 cm (4.7 inch) Retina HD Display8MP Rear Camera | 1.2MP Front CameraApple A8 64-bit processor and M8 Motion Co-processor1 Year Manufacturer Warranty"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99af2"
+  },
+  "Product_Name": "Apple iPhone SE (Red, 256 GB) (Includes EarPods, Power Adapter)",
+  "Actual_Price": "₹54,900",
+  "Sale_Price": "₹42,999",
+  "Offer": "21% off",
+  "Rating": 4.5,
+  "Total_Ratings": "1,41,146",
+  "No_of_Reviews": " 11,244",
+  "Space": "256 GB ",
+  "Specifications": "11.94 cm (4.7 inch) Retina HD Display12MP Rear Camera | 7MP Front CameraA13 Bionic Chip with 3rd Gen Neural Engine ProcessorWater and Dust Resistant (1 meter for Upto 30 minutes, IP67)Fast Charge CapableWireless charging (Works with Qi Chargers | Qi Chargers are Sold SeparatelyBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99af3"
+  },
+  "Product_Name": "Apple iPhone XR (Coral, 64 GB) (Includes EarPods, Power Adapter)",
+  "Actual_Price": "₹47,900",
+  "Sale_Price": "₹34,999",
+  "Offer": "26% off",
+  "Rating": 4.6,
+  "Total_Ratings": "99,045",
+  "No_of_Reviews": " 8,471",
+  "Space": "64 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Display12MP Rear Camera | 7MP Front CameraA12 Bionic Chip ProcessoriOS 13 CompatibleBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99af4"
+  },
+  "Product_Name": "Apple iPhone 11 (Black, 64 GB) (Includes EarPods, Power Adapter)",
+  "Actual_Price": "₹49,900",
+  "Sale_Price": "₹46,499",
+  "Offer": "6% off",
+  "Rating": 4.6,
+  "Total_Ratings": "78,000",
+  "No_of_Reviews": " 5,889",
+  "Space": "64 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Liquid Retina HD Display12MP + 12MP | 12MP Front CameraA13 Bionic Chip ProcessorBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99af5"
+  },
+  "Product_Name": "APPLE iPhone XR (Coral, 128 GB)",
+  "Actual_Price": "₹52,900",
+  "Sale_Price": "₹39,999",
+  "Offer": "24% off",
+  "Rating": 4.6,
+  "Total_Ratings": "99,045",
+  "No_of_Reviews": " 8,471",
+  "Space": "128 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Display12MP Rear Camera | 7MP Front CameraA12 Bionic Chip ProcessorWater and Dust Resistant (1 meter for Upto 30 minutes, IP67)Face ID for Secure AuthenticationFast-charge CapableBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99af6"
+  },
+  "Product_Name": "Apple iPhone XR (White, 256 GB) (Includes EarPods, Power Adapter)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹91,900",
+  "Offer": "No offer",
+  "Rating": 4.6,
+  "Total_Ratings": "99,045",
+  "No_of_Reviews": " 8,471",
+  "Space": "256 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Display12MP Rear Camera | 7MP Front CameraA12 Bionic Chip ProcessorBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99af7"
+  },
+  "Product_Name": "APPLE iPhone 6 Plus (Space Grey, 16 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹39,999",
+  "Offer": "No offer",
+  "Rating": 4.5,
+  "Total_Ratings": "1,670",
+  "No_of_Reviews": " 201",
+  "Space": "16 GB ",
+  "Specifications": "13.97 cm (5.5 inch) Retina HD Display8MP Rear Camera | 1.2MP Front CameraApple A8 64-bit processor and M8 Motion Co-processor1 Year Manufacturer Warranty"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99af8"
+  },
+  "Product_Name": "APPLE iPhone 6s Plus (Silver, 64 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹59,999",
+  "Offer": "No offer",
+  "Rating": 4.4,
+  "Total_Ratings": "18,848",
+  "No_of_Reviews": " 2,392",
+  "Space": "64 GB ",
+  "Specifications": "13.97 cm (5.5 inch) Retina HD Display12MP Rear Camera | 5MP Front CameraA9 Chip with 64-bit Architecture and M9 Motion Co-processorBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99af9"
+  },
+  "Product_Name": "APPLE iPhone 7 (Jet Black, 32 GB)",
+  "Actual_Price": "₹31,500",
+  "Sale_Price": "₹24,999",
+  "Offer": "20% off",
+  "Rating": 4.5,
+  "Total_Ratings": "94,933",
+  "No_of_Reviews": " 9,226",
+  "Space": "32 GB ",
+  "Specifications": "11.94 cm (4.7 inch) Retina HD Display12MP Rear Camera | 7MP Front CameraApple A10 Fusion 64-bit processor and Embedded M10 Motion Co-processoriOS 13 CompatibleBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99afa"
+  },
+  "Product_Name": "APPLE iPhone 7 (Black, 32 GB)",
+  "Actual_Price": "₹31,500",
+  "Sale_Price": "₹24,999",
+  "Offer": "20% off",
+  "Rating": 4.5,
+  "Total_Ratings": "94,933",
+  "No_of_Reviews": " 9,226",
+  "Space": "32 GB ",
+  "Specifications": "11.94 cm (4.7 inch) Retina HD Display12MP Rear Camera | 7MP Front CameraApple A10 Fusion 64-bit processor and Embedded M10 Motion Co-processoriOS 13 CompatibleBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99afb"
+  },
+  "Product_Name": "APPLE iPhone 6s Plus (Gold, 64 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹59,999",
+  "Offer": "No offer",
+  "Rating": 4.4,
+  "Total_Ratings": "18,848",
+  "No_of_Reviews": " 2,392",
+  "Space": "64 GB ",
+  "Specifications": "13.97 cm (5.5 inch) Retina HD Display12MP Rear Camera | 5MP Front CameraA9 Chip with 64-bit Architecture and M9 Motion Co-processorBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99afc"
+  },
+  "Product_Name": "APPLE iPhone 6 Plus (Space Grey, 64 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹48,999",
+  "Offer": "No offer",
+  "Rating": 4.5,
+  "Total_Ratings": "1,670",
+  "No_of_Reviews": " 201",
+  "Space": "64 GB ",
+  "Specifications": "13.97 cm (5.5 inch) Retina HD Display8MP Rear Camera | 1.2MP Front CameraA8 Chip with 64-bit Architecture and M8 Motion Co-processor1 Year Manufacturer Warranty"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99afd"
+  },
+  "Product_Name": "APPLE iPhone 6s Plus (Gold, 16 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹49,999",
+  "Offer": "No offer",
+  "Rating": 4.4,
+  "Total_Ratings": "18,848",
+  "No_of_Reviews": " 2,392",
+  "Space": "16 GB ",
+  "Specifications": "13.97 cm (5.5 inch) Retina HD Display12MP Rear Camera | 5MP Front CameraA9 Chip with 64-bit Architecture and M9 Motion Co-processorBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99afe"
+  },
+  "Product_Name": "APPLE iPhone 11 Pro (Gold, 512 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹1,40,300",
+  "Offer": "No offer",
+  "Rating": 4.6,
+  "Total_Ratings": "8,569",
+  "No_of_Reviews": " 625",
+  "Space": "512 GB ",
+  "Specifications": "14.73 cm (5.8 inch) Super Retina XDR Display12MP + 12MP + 12MP | 12MP Front CameraA13 Bionic Chip ProcessorBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99aff"
+  },
+  "Product_Name": "APPLE iPhone 6 Plus (Silver, 64 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹48,999",
+  "Offer": "No offer",
+  "Rating": 4.5,
+  "Total_Ratings": "1,670",
+  "No_of_Reviews": " 201",
+  "Space": "64 GB ",
+  "Specifications": "13.97 cm (5.5 inch) Retina HD Display8MP Rear Camera | 1.2MP Front CameraA8 Chip with 64-bit Architecture and M8 Motion Co-processor1 Year Manufacturer Warranty"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b00"
+  },
+  "Product_Name": "APPLE iPhone XS Max (Space Grey, 512 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹1,44,900",
+  "Offer": "No offer",
+  "Rating": 4.6,
+  "Total_Ratings": "1,454",
+  "No_of_Reviews": " 149",
+  "Space": "512 GB ",
+  "Specifications": "16.51 cm (6.5 inch) Super Retina HD Display12MP + 12MP | 7MP Front CameraA12 Bionic Chip Processor1 Year Limited Warranty for Products and Accessories"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b01"
+  },
+  "Product_Name": "APPLE iPhone XS Max (Silver, 512 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹1,44,900",
+  "Offer": "No offer",
+  "Rating": 4.6,
+  "Total_Ratings": "1,454",
+  "No_of_Reviews": " 149",
+  "Space": "512 GB ",
+  "Specifications": "16.51 cm (6.5 inch) Super Retina HD Display12MP + 12MP | 7MP Front CameraA12 Bionic Chip Processor1 Year Limited Warranty for Products and Accessories"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b02"
+  },
+  "Product_Name": "APPLE iPhone 11 Pro (Space Grey, 512 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹1,40,300",
+  "Offer": "No offer",
+  "Rating": 4.6,
+  "Total_Ratings": "8,569",
+  "No_of_Reviews": " 625",
+  "Space": "512 GB ",
+  "Specifications": "14.73 cm (5.8 inch) Super Retina XDR Display12MP + 12MP + 12MP | 12MP Front CameraA13 Bionic Chip ProcessorBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b03"
+  },
+  "Product_Name": "APPLE iPhone 6s (Gold, 16 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹41,999",
+  "Offer": "No offer",
+  "Rating": 4.5,
+  "Total_Ratings": "93,085",
+  "No_of_Reviews": " 9,280",
+  "Space": "16 GB ",
+  "Specifications": "11.94 cm (4.7 inch) Retina HD Display12MP Rear Camera | 5MP Front CameraA9 Chip with 64-bit Architecture and M9 Motion Co-processorBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b04"
+  },
+  "Product_Name": "Apple iPhone XR (Black, 64 GB) (Includes EarPods, Power Adapter)",
+  "Actual_Price": "₹47,900",
+  "Sale_Price": "₹34,999",
+  "Offer": "26% off",
+  "Rating": 4.6,
+  "Total_Ratings": "99,045",
+  "No_of_Reviews": " 8,471",
+  "Space": "64 GB ",
+  "Specifications": "15.5 cm (6.102 inch) Display12MP Rear Camera | 7MP Front CameraA12 Bionic Chip ProcessoriOS 13 CompatibleBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b05"
+  },
+  "Product_Name": "APPLE iPhone XS (Gold, 256 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹1,03,900",
+  "Offer": "No offer",
+  "Rating": 4.7,
+  "Total_Ratings": "11,960",
+  "No_of_Reviews": " 874",
+  "Space": "256 GB ",
+  "Specifications": "14.73 cm (5.8 inch) Super Retina HD Display12MP + 12MP | 7MP Front CameraA12 Bionic Chip Processor1 Year Limited Warranty for Products and Accessories"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b06"
+  },
+  "Product_Name": "APPLE iPhone 6s (Gold, 128 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹55,999",
+  "Offer": "No offer",
+  "Rating": 4.5,
+  "Total_Ratings": "93,085",
+  "No_of_Reviews": " 9,280",
+  "Space": "128 GB ",
+  "Specifications": "11.94 cm (4.7 inch) Retina HD Display12MP Rear Camera | 5MP Front CameraA9 Chip with 64-bit Architecture and M9 Motion Co-processorBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b07"
+  },
+  "Product_Name": "APPLE iPhone 5s (Silver, 16 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹25,000",
+  "Offer": "No offer",
+  "Rating": 4.4,
+  "Total_Ratings": "62,725",
+  "No_of_Reviews": " 7,383",
+  "Space": "16 GB ",
+  "Specifications": "10.16 cm (4 inch) Retina Display8MP Rear Camera | 1.2MP Front CameraApple A7 64-bit processor and M7 Motion Co-processor1 Year Manufacturer Warranty"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b08"
+  },
+  "Product_Name": "APPLE iPhone 5s (Space Grey, 16 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹25,000",
+  "Offer": "No offer",
+  "Rating": 4.4,
+  "Total_Ratings": "62,725",
+  "No_of_Reviews": " 7,383",
+  "Space": "16 GB ",
+  "Specifications": "10.16 cm (4 inch) Retina Display8MP Rear Camera | 1.2MP Front CameraApple A7 64-bit processor and M7 Motion Co-processor1 Year Manufacturer Warranty"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b09"
+  },
+  "Product_Name": "APPLE iPhone 11 Pro (Gold, 64 GB)",
+  "Actual_Price": "₹1,06,600",
+  "Sale_Price": "₹79,999",
+  "Offer": "24% off",
+  "Rating": 4.6,
+  "Total_Ratings": "8,569",
+  "No_of_Reviews": " 625",
+  "Space": "64 GB ",
+  "Specifications": "14.73 cm (5.8 inch) Super Retina XDR Display12MP + 12MP + 12MP | 12MP Front CameraA13 Bionic Chip ProcessorBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b0a"
+  },
+  "Product_Name": "APPLE iPhone 7 Plus (Rose Gold, 256 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹85,400",
+  "Offer": "No offer",
+  "Rating": 4.5,
+  "Total_Ratings": "29,800",
+  "No_of_Reviews": " 3,000",
+  "Space": "256 GB ",
+  "Specifications": "13.97 cm (5.5 inch) Retina HD Display12MP + 12MP | 7MP Front CameraApple A10 Fusion 64-bit processor and Embedded M10 Motion Co-processorBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b0b"
+  },
+  "Product_Name": "APPLE iPhone 8 (PRODUCT)RED (Red, 64 GB)",
+  "Actual_Price": "₹39,900",
+  "Sale_Price": "₹38,999",
+  "Offer": "2% off",
+  "Rating": 4.7,
+  "Total_Ratings": "113",
+  "No_of_Reviews": " 10",
+  "Space": "64 GB ",
+  "Specifications": "11.94 cm (4.7 inch) Retina HD Display12MP Rear Camera | 7MP Front CameraA11 Bionic Chip with 64-bit Architecture, Neural Engine, Embedded M11 Motion Coprocessor ProcessoriOS 13 CompatibleBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b0c"
+  },
+  "Product_Name": "APPLE iPhone 11 (Purple, 64 GB)",
+  "Actual_Price": "₹49,900",
+  "Sale_Price": "₹46,499",
+  "Offer": "6% off",
+  "Rating": 4.6,
+  "Total_Ratings": "78,000",
+  "No_of_Reviews": " 5,889",
+  "Space": "64 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Liquid Retina HD Display12MP + 12MP | 12MP Front CameraA13 Bionic Chip ProcessorBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b0d"
+  },
+  "Product_Name": "APPLE iPhone 11 Pro (Silver, 256 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹1,21,300",
+  "Offer": "No offer",
+  "Rating": 4.6,
+  "Total_Ratings": "8,569",
+  "No_of_Reviews": " 625",
+  "Space": "256 GB ",
+  "Specifications": "14.73 cm (5.8 inch) Super Retina XDR Display12MP + 12MP + 12MP | 12MP Front CameraA13 Bionic Chip ProcessorBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b0e"
+  },
+  "Product_Name": "APPLE iPhone XS (Space Grey, 256 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹1,03,900",
+  "Offer": "No offer",
+  "Rating": 4.7,
+  "Total_Ratings": "11,960",
+  "No_of_Reviews": " 874",
+  "Space": "256 GB ",
+  "Specifications": "14.73 cm (5.8 inch) Super Retina HD Display12MP + 12MP | 7MP Front CameraA12 Bionic Chip Processor1 Year Limited Warranty for Products and Accessories"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b0f"
+  },
+  "Product_Name": "APPLE iPhone 13 Pro (Gold, 128 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹1,19,900",
+  "Offer": "No offer",
+  "Rating": 4.7,
+  "Total_Ratings": "448",
+  "No_of_Reviews": " 42",
+  "Space": "128 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Super Retina XDR Display12MP + 12MP + 12MP | 12MP Front CameraA15 Bionic Chip ProcessorBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b10"
+  },
+  "Product_Name": "APPLE iPhone 11 Pro Max (Gold, 256 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹1,31,900",
+  "Offer": "No offer",
+  "Rating": 4.7,
+  "Total_Ratings": "1,093",
+  "No_of_Reviews": " 100",
+  "Space": "256 GB ",
+  "Specifications": "16.51 cm (6.5 inch) Super Retina XDR Display12MP + 12MP + 12MP | 12MP Front CameraA13 Bionic Chip ProcessorBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b11"
+  },
+  "Product_Name": "APPLE iPhone 6 (Silver, 128 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹71,500",
+  "Offer": "No offer",
+  "Rating": 4.4,
+  "Total_Ratings": "1,45,616",
+  "No_of_Reviews": " 16,341",
+  "Space": "128 GB ",
+  "Specifications": "11.94 cm (4.7 inch) Retina HD Display8MP Rear Camera | 1.2MP Front CameraA8 Chip with 64-bit Architecture and M8 Motion Co-processor1 Year Manufacturer Warranty"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b12"
+  },
+  "Product_Name": "APPLE iPhone 6 (Grey, 128 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹71,500",
+  "Offer": "No offer",
+  "Rating": 4.4,
+  "Total_Ratings": "1,45,616",
+  "No_of_Reviews": " 16,341",
+  "Space": "128 GB ",
+  "Specifications": "11.94 cm (4.7 inch) Retina HD Display8MP Rear Camera | 1.2MP Front CameraApple A8 64-bit processor and M8 Motion Co-processor1 Year Manufacturer Warranty"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b13"
+  },
+  "Product_Name": "Apple iPhone 11 (White, 256 GB) (Includes EarPods, Power Adapter)",
+  "Actual_Price": "₹64,900",
+  "Sale_Price": "₹61,499",
+  "Offer": "5% off",
+  "Rating": 4.6,
+  "Total_Ratings": "78,000",
+  "No_of_Reviews": " 5,889",
+  "Space": "256 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Liquid Retina HD Display12MP + 12MP | 12MP Front CameraA13 Bionic Chip ProcessorBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b14"
+  },
+  "Product_Name": "APPLE iPhone 5C (Pink, 8 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹37,500",
+  "Offer": "No offer",
+  "Rating": 3.9,
+  "Total_Ratings": "1,325",
+  "No_of_Reviews": " 265",
+  "Space": "8 GB ",
+  "Specifications": "10.16 cm (4 inch) Retina Display8MP Rear Camera | 1.2MP Front CameraA6 Chip Processor1 Year Manufacturer Warranty"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b15"
+  },
+  "Product_Name": "APPLE IPhone 4 (Black, 8 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹22,900",
+  "Offer": "No offer",
+  "Rating": 4.1,
+  "Total_Ratings": "1,092",
+  "No_of_Reviews": " 185",
+  "Space": "8 GB ",
+  "Specifications": "8.89 cm (3.5 inch) NA Display5MP Rear Camera | 0.3MP Front Camera1 Year Manufacturer Warranty"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b16"
+  },
+  "Product_Name": "APPLE iPhone 7 (PRODUCT) (Red, 256 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹74,400",
+  "Offer": "No offer",
+  "Rating": 4.7,
+  "Total_Ratings": "29",
+  "No_of_Reviews": " 1",
+  "Space": "256 GB ",
+  "Specifications": "11.94 cm (4.7 inch) Retina HD Display12MP Rear Camera | 7MP Front CameraA10 Fusion Chip with 64-bit Architecture and Embedded M10 Motion Co-processorBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b17"
+  },
+  "Product_Name": "APPLE iPhone XS Max (Space Grey, 64 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹1,09,900",
+  "Offer": "No offer",
+  "Rating": 4.6,
+  "Total_Ratings": "1,454",
+  "No_of_Reviews": " 149",
+  "Space": "64 GB ",
+  "Specifications": "16.51 cm (6.5 inch) Super Retina HD Display12MP + 12MP | 7MP Front CameraA12 Bionic Chip ProcessoriOS 13 Compatible1 Year Limited Warranty for Products and Accessories"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b18"
+  },
+  "Product_Name": "APPLE iPhone XS (Silver, 64 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹89,900",
+  "Offer": "No offer",
+  "Rating": 4.7,
+  "Total_Ratings": "11,960",
+  "No_of_Reviews": " 874",
+  "Space": "64 GB ",
+  "Specifications": "14.73 cm (5.8 inch) Super Retina HD Display12MP + 12MP | 7MP Front CameraA12 Bionic Chip Processor1 Year Limited Warranty for Products and Accessories"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b19"
+  },
+  "Product_Name": "APPLE iPhone X (Space Gray, 256 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹1,06,900",
+  "Offer": "No offer",
+  "Rating": 4.6,
+  "Total_Ratings": "10,987",
+  "No_of_Reviews": " 876",
+  "Space": "256 GB ",
+  "Specifications": "14.73 cm (5.8 inch) Super Retina HD Display12MP + 12MP | 7MP Front CameraA11 Bionic Chip with 64-bit Architecture, Neural Engine, Embedded M11 Motion Coprocessor ProcessorBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b1a"
+  },
+  "Product_Name": "APPLE iPhone 5C (Yellow, 8 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹37,500",
+  "Offer": "No offer",
+  "Rating": 3.9,
+  "Total_Ratings": "1,325",
+  "No_of_Reviews": " 265",
+  "Space": "8 GB ",
+  "Specifications": "10.16 cm (4 inch) Retina Display8MP Rear Camera | 1.2MP Front CameraA6 Chip Processor1 Year Manufacturer Warranty"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b1b"
+  },
+  "Product_Name": "APPLE iPhone 7 Plus (Black, 128 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹42,900",
+  "Offer": "No offer",
+  "Rating": 4.5,
+  "Total_Ratings": "29,800",
+  "No_of_Reviews": " 3,000",
+  "Space": "128 GB ",
+  "Specifications": "13.94 cm (5.488 inch) Retina HD Display12MP + 12MP | 7MP Front CameraApple A10 Fusion 64-bit processor and Embedded M10 Motion Co-processorBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b1c"
+  },
+  "Product_Name": "APPLE iPhone 8 (Silver, 64 GB)",
+  "Actual_Price": "₹39,900",
+  "Sale_Price": "₹38,999",
+  "Offer": "2% off",
+  "Rating": 4.5,
+  "Total_Ratings": "11,340",
+  "No_of_Reviews": " 799",
+  "Space": "64 GB ",
+  "Specifications": "11.94 cm (4.7 inch) Retina HD Display12MP Rear Camera | 7MP Front CameraA11 Bionic Chip with 64-bit Architecture, Neural Engine, Embedded M11 Motion Coprocessor ProcessoriOS 13 CompatibleBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b1d"
+  },
+  "Product_Name": "APPLE iPhone 6s (Rose Gold, 64 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹72,000",
+  "Offer": "No offer",
+  "Rating": 4.5,
+  "Total_Ratings": "93,085",
+  "No_of_Reviews": " 9,280",
+  "Space": "64 GB ",
+  "Specifications": "11.94 cm (4.7 inch) Retina HD Display12MP Rear Camera | 5MP Front CameraA9 Chip with 64-bit Architecture and M9 Motion Co-processorBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b1e"
+  },
+  "Product_Name": "APPLE iPhone 13 Pro (Silver, 512 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹1,49,900",
+  "Offer": "No offer",
+  "Rating": 4.7,
+  "Total_Ratings": "448",
+  "No_of_Reviews": " 42",
+  "Space": "512 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Super Retina XDR Display12MP + 12MP + 12MP | 12MP Front CameraA15 Bionic Chip ProcessorBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b1f"
+  },
+  "Product_Name": "APPLE iPhone XS (Space Grey, 64 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹89,900",
+  "Offer": "No offer",
+  "Rating": 4.7,
+  "Total_Ratings": "11,960",
+  "No_of_Reviews": " 874",
+  "Space": "64 GB ",
+  "Specifications": "14.73 cm (5.8 inch) Super Retina HD Display12MP + 12MP | 7MP Front CameraA12 Bionic Chip Processor1 Year Limited Warranty for Products and Accessories"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b20"
+  },
+  "Product_Name": "APPLE iPhone XS Max (Gold, 64 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹1,09,900",
+  "Offer": "No offer",
+  "Rating": 4.6,
+  "Total_Ratings": "1,454",
+  "No_of_Reviews": " 149",
+  "Space": "64 GB ",
+  "Specifications": "16.51 cm (6.5 inch) Super Retina HD Display12MP + 12MP | 7MP Front CameraA12 Bionic Chip ProcessoriOS 13 Compatible1 Year Limited Warranty for Products and Accessories"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b21"
+  },
+  "Product_Name": "APPLE iPhone 6s (Silver, 16 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹41,999",
+  "Offer": "No offer",
+  "Rating": 4.5,
+  "Total_Ratings": "93,085",
+  "No_of_Reviews": " 9,280",
+  "Space": "16 GB ",
+  "Specifications": "11.94 cm (4.7 inch) Retina HD Display12MP Rear Camera | 5MP Front CameraA9 Chip with 64-bit Architecture and M9 Motion Co-processorBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b22"
+  },
+  "Product_Name": "APPLE iPhone 7 Plus (Gold, 32 GB)",
+  "Actual_Price": "₹37,900",
+  "Sale_Price": "₹36,999",
+  "Offer": "2% off",
+  "Rating": 4.5,
+  "Total_Ratings": "29,800",
+  "No_of_Reviews": " 3,000",
+  "Space": "32 GB ",
+  "Specifications": "13.94 cm (5.488 inch) Retina HD Display12MP + 12MP | 7MP Front CameraApple A10 Fusion 64-bit processor and Embedded M10 Motion Co-processoriOS 13 CompatibleBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b23"
+  },
+  "Product_Name": "APPLE iPhone 7 Plus (Gold, 128 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹42,900",
+  "Offer": "No offer",
+  "Rating": 4.5,
+  "Total_Ratings": "29,800",
+  "No_of_Reviews": " 3,000",
+  "Space": "128 GB ",
+  "Specifications": "13.94 cm (5.488 inch) Retina HD Display12MP + 12MP | 7MP Front CameraApple A10 Fusion 64-bit processor and Embedded M10 Motion Co-processorBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b24"
+  },
+  "Product_Name": "APPLE iPhone 8 Plus (Gold, 256 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹84,900",
+  "Offer": "No offer",
+  "Rating": 4.6,
+  "Total_Ratings": "3,443",
+  "No_of_Reviews": " 355",
+  "Space": "256 GB ",
+  "Specifications": "13.97 cm (5.5 inch) Retina HD Display12MP + 12MP | 7MP Front CameraA11 Bionic Chip with 64-bit Architecture, Neural Engine, Embedded M11 Motion Coprocessor ProcessorBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b25"
+  },
+  "Product_Name": "APPLE iPhone 5s (Gold, 16 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹14,999",
+  "Offer": "No offer",
+  "Rating": 4.4,
+  "Total_Ratings": "62,725",
+  "No_of_Reviews": " 7,383",
+  "Space": "16 GB ",
+  "Specifications": "10.16 cm (4 inch) Retina Display8MP Rear Camera | 1.2MP Front CameraApple A7 64-bit processor and M7 Motion Co-processor1 Year for Mobile & Accessories"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b26"
+  },
+  "Product_Name": "Apple iPhone XR (Blue, 256 GB) (Includes EarPods, Power Adapter)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹91,900",
+  "Offer": "No offer",
+  "Rating": 4.6,
+  "Total_Ratings": "99,045",
+  "No_of_Reviews": " 8,471",
+  "Space": "256 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Display12MP Rear Camera | 7MP Front CameraA12 Bionic Chip ProcessorBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b27"
+  },
+  "Product_Name": "APPLE iPhone 7 (Silver, 32 GB)",
+  "Actual_Price": "₹31,500",
+  "Sale_Price": "₹24,999",
+  "Offer": "20% off",
+  "Rating": 4.5,
+  "Total_Ratings": "94,933",
+  "No_of_Reviews": " 9,226",
+  "Space": "32 GB ",
+  "Specifications": "11.94 cm (4.7 inch) Retina HD Display12MP Rear Camera | 7MP Front CameraApple A10 Fusion 64-bit processor and Embedded M10 Motion Co-processoriOS 13 CompatibleBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b28"
+  },
+  "Product_Name": "APPLE iPhone XS Max (Silver, 64 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹1,09,900",
+  "Offer": "No offer",
+  "Rating": 4.6,
+  "Total_Ratings": "1,454",
+  "No_of_Reviews": " 149",
+  "Space": "64 GB ",
+  "Specifications": "16.51 cm (6.5 inch) Super Retina HD Display12MP + 12MP | 7MP Front CameraA12 Bionic Chip ProcessoriOS 13 Compatible1 Year Limited Warranty for Products and Accessories"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b29"
+  },
+  "Product_Name": "APPLE iPhone 7 Plus (Jet Black, 128 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹42,900",
+  "Offer": "No offer",
+  "Rating": 4.5,
+  "Total_Ratings": "29,800",
+  "No_of_Reviews": " 3,000",
+  "Space": "128 GB ",
+  "Specifications": "13.94 cm (5.488 inch) Retina HD Display12MP + 12MP | 7MP Front CameraApple A10 Fusion 64-bit processor and Embedded M10 Motion Co-processorBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b2a"
+  },
+  "Product_Name": "APPLE iPhone 7 Plus (Jet Black, 256 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹85,400",
+  "Offer": "No offer",
+  "Rating": 4.5,
+  "Total_Ratings": "29,800",
+  "No_of_Reviews": " 3,000",
+  "Space": "256 GB ",
+  "Specifications": "13.97 cm (5.5 inch) Retina HD Display12MP + 12MP | 7MP Front CameraApple A10 Fusion 64-bit processor and Embedded M10 Motion Co-processorBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b2b"
+  },
+  "Product_Name": "APPLE iPhone 8 (Space Grey, 64 GB)",
+  "Actual_Price": "₹39,900",
+  "Sale_Price": "₹38,999",
+  "Offer": "2% off",
+  "Rating": 4.5,
+  "Total_Ratings": "11,340",
+  "No_of_Reviews": " 799",
+  "Space": "64 GB ",
+  "Specifications": "11.94 cm (4.7 inch) Retina HD Display12MP Rear Camera | 7MP Front CameraA11 Bionic Chip with 64-bit Architecture, Neural Engine, Embedded M11 Motion Coprocessor ProcessoriOS 13 CompatibleBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b2c"
+  },
+  "Product_Name": "APPLE iPhone 7 (Jet Black, 128 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹34,900",
+  "Offer": "No offer",
+  "Rating": 4.5,
+  "Total_Ratings": "94,933",
+  "No_of_Reviews": " 9,226",
+  "Space": "128 GB ",
+  "Specifications": "11.94 cm (4.7 inch) Retina HD Display12MP Rear Camera | 7MP Front CameraApple A10 Fusion 64-bit processor and Embedded M10 Motion Co-processorBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b2d"
+  },
+  "Product_Name": "APPLE iPhone 7 (Rose Gold, 32 GB)",
+  "Actual_Price": "₹31,500",
+  "Sale_Price": "₹24,999",
+  "Offer": "20% off",
+  "Rating": 4.5,
+  "Total_Ratings": "94,933",
+  "No_of_Reviews": " 9,226",
+  "Space": "32 GB ",
+  "Specifications": "11.94 cm (4.7 inch) Retina HD Display12MP Rear Camera | 7MP Front CameraApple A10 Fusion 64-bit processor and Embedded M10 Motion Co-processoriOS 13 CompatibleBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b2e"
+  },
+  "Product_Name": "APPLE iPhone 11 (Yellow, 256 GB)",
+  "Actual_Price": "₹64,900",
+  "Sale_Price": "₹61,499",
+  "Offer": "5% off",
+  "Rating": 4.6,
+  "Total_Ratings": "78,000",
+  "No_of_Reviews": " 5,889",
+  "Space": "256 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Liquid Retina HD Display12MP + 12MP | 12MP Front CameraA13 Bionic Chip ProcessorBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b2f"
+  },
+  "Product_Name": "APPLE iPhone 11 (White, 256 GB)",
+  "Actual_Price": "₹64,900",
+  "Sale_Price": "₹61,499",
+  "Offer": "5% off",
+  "Rating": 4.6,
+  "Total_Ratings": "78,000",
+  "No_of_Reviews": " 5,889",
+  "Space": "256 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Liquid Retina HD Display12MP + 12MP | 12MP Front CameraA13 Bionic Chip ProcessorBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b30"
+  },
+  "Product_Name": "APPLE iPhone 6 (Gold, 64 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹62,500",
+  "Offer": "No offer",
+  "Rating": 4.4,
+  "Total_Ratings": "1,45,616",
+  "No_of_Reviews": " 16,341",
+  "Space": "64 GB ",
+  "Specifications": "11.94 cm (4.7 inch) Retina HD Display8MP Rear Camera | 1.2MP Front CameraA8 Chip with 64-bit Architecture and M8 Motion Co-processor1 Year Manufacturer Warranty"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b31"
+  },
+  "Product_Name": "APPLE iPhone 8 (PRODUCT)RED (Red, 256 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹81,500",
+  "Offer": "No offer",
+  "Rating": 4.7,
+  "Total_Ratings": "113",
+  "No_of_Reviews": " 10",
+  "Space": "256 GB ",
+  "Specifications": "11.94 cm (4.7 inch) Retina HD Display12MP Rear Camera | 7MP Front CameraA11 Bionic Chip with 64-bit Architecture, Neural Engine, Embedded M11 Motion Coprocessor ProcessorBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b32"
+  },
+  "Product_Name": "APPLE iPhone 6s (Rose Gold, 128 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹55,999",
+  "Offer": "No offer",
+  "Rating": 4.5,
+  "Total_Ratings": "93,085",
+  "No_of_Reviews": " 9,280",
+  "Space": "128 GB ",
+  "Specifications": "11.94 cm (4.7 inch) Retina HD Display12MP Rear Camera | 5MP Front CameraA9 Chip with 64-bit Architecture and M9 Motion Co-processorBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b33"
+  },
+  "Product_Name": "APPLE iPhone 7 Plus (Gold, 256 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹85,400",
+  "Offer": "No offer",
+  "Rating": 4.5,
+  "Total_Ratings": "29,800",
+  "No_of_Reviews": " 3,000",
+  "Space": "256 GB ",
+  "Specifications": "13.97 cm (5.5 inch) Retina HD Display12MP + 12MP | 7MP Front CameraA10 Fusion Chip with 64-bit Architecture and Embedded M10 Motion Co-processorBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b34"
+  },
+  "Product_Name": "APPLE iPhone 6s Plus (Rose Gold, 16 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹49,999",
+  "Offer": "No offer",
+  "Rating": 4.4,
+  "Total_Ratings": "18,848",
+  "No_of_Reviews": " 2,392",
+  "Space": "16 GB ",
+  "Specifications": "13.97 cm (5.5 inch) Retina HD Display12MP Rear Camera | 5MP Front CameraA9 Chip with 64-bit Architecture and M9 Motion Co-processorBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b35"
+  },
+  "Product_Name": "APPLE iPhone 7 (Rose Gold, 128 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹34,900",
+  "Offer": "No offer",
+  "Rating": 4.5,
+  "Total_Ratings": "94,933",
+  "No_of_Reviews": " 9,226",
+  "Space": "128 GB ",
+  "Specifications": "11.94 cm (4.7 inch) Retina HD Display12MP Rear Camera | 7MP Front CameraA10 Fusion Chip with 64-bit Architecture and Embedded M10 Motion Co-processorBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b36"
+  },
+  "Product_Name": "Apple iPhone 11 (Purple, 256 GB) (Includes EarPods, Power Adapter)",
+  "Actual_Price": "₹64,900",
+  "Sale_Price": "₹61,499",
+  "Offer": "5% off",
+  "Rating": 4.6,
+  "Total_Ratings": "78,000",
+  "No_of_Reviews": " 5,889",
+  "Space": "256 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Liquid Retina HD Display12MP + 12MP | 12MP Front CameraA13 Bionic Chip ProcessorBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b37"
+  },
+  "Product_Name": "APPLE iPhone 6s Plus (Rose Gold, 128 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹70,000",
+  "Offer": "No offer",
+  "Rating": 4.4,
+  "Total_Ratings": "18,848",
+  "No_of_Reviews": " 2,392",
+  "Space": "128 GB ",
+  "Specifications": "13.97 cm (5.5 inch) Retina HD Display12MP Rear Camera | 5MP Front CameraA9 Chip with 64-bit Architecture and M9 Motion Co-processorBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b38"
+  },
+  "Product_Name": "APPLE iPhone 11 Pro Max (Midnight Green, 256 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹1,31,900",
+  "Offer": "No offer",
+  "Rating": 4.7,
+  "Total_Ratings": "1,093",
+  "No_of_Reviews": " 100",
+  "Space": "256 GB ",
+  "Specifications": "16.51 cm (6.5 inch) Super Retina XDR Display12MP + 12MP + 12MP | 12MP Front CameraA13 Bionic Chip ProcessorBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b39"
+  },
+  "Product_Name": "APPLE iPhone 6 (Gold, 32 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹30,780",
+  "Offer": "No offer",
+  "Rating": 4.4,
+  "Total_Ratings": "1,45,616",
+  "No_of_Reviews": " 16,341",
+  "Space": "32 GB ",
+  "Specifications": "11.94 cm (4.7 inch) Retina HD Display8MP Rear Camera | 1.2MP Front CameraA8 Chip with 64-bit Architecture and M8 Motion Co-processorBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b3a"
+  },
+  "Product_Name": "APPLE iPhone 7 Plus (Jet Black, 32 GB)",
+  "Actual_Price": "₹37,900",
+  "Sale_Price": "₹36,999",
+  "Offer": "2% off",
+  "Rating": 4.5,
+  "Total_Ratings": "29,800",
+  "No_of_Reviews": " 3,000",
+  "Space": "32 GB ",
+  "Specifications": "13.94 cm (5.488 inch) Retina HD Display12MP + 12MP | 7MP Front CameraApple A10 Fusion 64-bit processor and Embedded M10 Motion Co-processor1 Year Manufacturer Warranty"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b3b"
+  },
+  "Product_Name": "APPLE iPhone 5C (Blue, 8 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹14,999",
+  "Offer": "No offer",
+  "Rating": 3.9,
+  "Total_Ratings": "1,325",
+  "No_of_Reviews": " 265",
+  "Space": "8 GB ",
+  "Specifications": "10.16 cm (4 inch) Retina Display8MP Rear Camera | 1.2MP Front CameraA6 Chip Processor1 Year Manufacturer Warranty"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b3c"
+  },
+  "Product_Name": "APPLE iPhone 5C (White, 32 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹53,500",
+  "Offer": "No offer",
+  "Rating": 3.9,
+  "Total_Ratings": "1,325",
+  "No_of_Reviews": " 265",
+  "Space": "32 GB ",
+  "Specifications": "10.16 cm (4 inch) Retina Display8MP Rear Camera | 1.2MP Front CameraA6 Chip Processor1 Year Manufacturer Warranty"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b3d"
+  },
+  "Product_Name": "APPLE iPhone 6 Plus (Gold, 64 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹71,500",
+  "Offer": "No offer",
+  "Rating": 4.5,
+  "Total_Ratings": "1,670",
+  "No_of_Reviews": " 201",
+  "Space": "64 GB ",
+  "Specifications": "13.97 cm (5.5 inch) Retina HD Display8MP Rear Camera | 1.2MP Front CameraA8 Chip with 64-bit Architecture and M8 Motion Co-processor1 Year Manufacturer Warranty"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b3e"
+  },
+  "Product_Name": "APPLE iPhone 6 Plus (Silver, 16 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹40,999",
+  "Offer": "No offer",
+  "Rating": 4.5,
+  "Total_Ratings": "1,670",
+  "No_of_Reviews": " 201",
+  "Space": "16 GB ",
+  "Specifications": "13.97 cm (5.5 inch) Retina HD Display8MP Rear Camera | 1.2MP Front CameraApple A8 64-bit processor and M8 Motion Co-processor1 Year for Mobile & 6 Months for Accessories"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b3f"
+  },
+  "Product_Name": "APPLE iPhone 11 (Green, 128 GB)",
+  "Actual_Price": "₹54,900",
+  "Sale_Price": "₹51,499",
+  "Offer": "6% off",
+  "Rating": 4.6,
+  "Total_Ratings": "78,000",
+  "No_of_Reviews": " 5,889",
+  "Space": "128 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Liquid Retina HD Display12MP + 12MP | 12MP Front CameraA13 Bionic Chip ProcessorBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b40"
+  },
+  "Product_Name": "APPLE iPhone 5C (White, 8 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹14,999",
+  "Offer": "No offer",
+  "Rating": 3.9,
+  "Total_Ratings": "1,325",
+  "No_of_Reviews": " 265",
+  "Space": "8 GB ",
+  "Specifications": "10.16 cm (4 inch) Retina Display8MP Rear Camera | 1.2MP Front CameraA6 Chip Processor1 Year Manufacturer Warranty"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b41"
+  },
+  "Product_Name": "Apple iPhone 11 (Yellow, 128 GB) (Includes EarPods, Power Adapter)",
+  "Actual_Price": "₹54,900",
+  "Sale_Price": "₹51,499",
+  "Offer": "6% off",
+  "Rating": 4.6,
+  "Total_Ratings": "78,000",
+  "No_of_Reviews": " 5,889",
+  "Space": "128 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Liquid Retina HD Display12MP + 12MP | 12MP Front CameraA13 Bionic Chip ProcessorBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b42"
+  },
+  "Product_Name": "APPLE iPhone 11 Pro Max (Space Grey, 512 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹1,50,800",
+  "Offer": "No offer",
+  "Rating": 4.7,
+  "Total_Ratings": "1,093",
+  "No_of_Reviews": " 100",
+  "Space": "512 GB ",
+  "Specifications": "16.51 cm (6.5 inch) Super Retina XDR Display12MP + 12MP + 12MP | 12MP Front CameraA13 Bionic Chip ProcessorBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b43"
+  },
+  "Product_Name": "APPLE iPhone 7 (Silver, 128 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹34,900",
+  "Offer": "No offer",
+  "Rating": 4.5,
+  "Total_Ratings": "94,933",
+  "No_of_Reviews": " 9,226",
+  "Space": "128 GB ",
+  "Specifications": "11.94 cm (4.7 inch) Retina HD Display12MP Rear Camera | 7MP Front CameraApple A10 Fusion 64-bit processor and Embedded M10 Motion Co-processorBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b44"
+  },
+  "Product_Name": "APPLE iPhone 6 Plus (Space Grey, 128 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹80,500",
+  "Offer": "No offer",
+  "Rating": 4.5,
+  "Total_Ratings": "1,670",
+  "No_of_Reviews": " 201",
+  "Space": "128 GB ",
+  "Specifications": "13.97 cm (5.5 inch) Retina HD Display8MP Rear Camera | 1.2MP Front CameraA8 Chip with 64-bit Architecture and M8 Motion Co-processor1 Year Manufacturer Warranty"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b45"
+  },
+  "Product_Name": "APPLE iPhone XS (Gold, 64 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹89,900",
+  "Offer": "No offer",
+  "Rating": 4.7,
+  "Total_Ratings": "11,960",
+  "No_of_Reviews": " 874",
+  "Space": "64 GB ",
+  "Specifications": "14.73 cm (5.8 inch) Super Retina HD Display12MP + 12MP | 7MP Front CameraA12 Bionic Chip Processor1 Year Limited Warranty for Products and Accessories"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b46"
+  },
+  "Product_Name": "APPLE iPhone 7 (Jet Black, 256 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹74,400",
+  "Offer": "No offer",
+  "Rating": 4.5,
+  "Total_Ratings": "94,933",
+  "No_of_Reviews": " 9,226",
+  "Space": "256 GB ",
+  "Specifications": "11.94 cm (4.7 inch) Retina HD Display12MP Rear Camera | 7MP Front CameraApple A10 Fusion 64-bit processor and Embedded M10 Motion Co-processorBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b47"
+  },
+  "Product_Name": "APPLE iPhone 11 (Purple, 128 GB)",
+  "Actual_Price": "₹54,900",
+  "Sale_Price": "₹51,499",
+  "Offer": "6% off",
+  "Rating": 4.6,
+  "Total_Ratings": "78,000",
+  "No_of_Reviews": " 5,889",
+  "Space": "128 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Liquid Retina HD Display12MP + 12MP | 12MP Front CameraA13 Bionic Chip ProcessorBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b48"
+  },
+  "Product_Name": "Apple iPhone 11 (Red, 256 GB) (Includes EarPods, Power Adapter)",
+  "Actual_Price": "₹64,900",
+  "Sale_Price": "₹61,499",
+  "Offer": "5% off",
+  "Rating": 4.6,
+  "Total_Ratings": "78,000",
+  "No_of_Reviews": " 5,889",
+  "Space": "256 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Liquid Retina HD Display12MP + 12MP | 12MP Front CameraA13 Bionic Chip ProcessorBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b49"
+  },
+  "Product_Name": "APPLE iPhone 7 (Gold, 256 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹74,400",
+  "Offer": "No offer",
+  "Rating": 4.5,
+  "Total_Ratings": "94,933",
+  "No_of_Reviews": " 9,226",
+  "Space": "256 GB ",
+  "Specifications": "11.94 cm (4.7 inch) Retina HD Display12MP Rear Camera | 7MP Front CameraA10 Fusion Chip with 64-bit Architecture and Embedded M10 Motion Co-processorBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b4a"
+  },
+  "Product_Name": "APPLE iPhone 7 Plus (Silver, 128 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹42,900",
+  "Offer": "No offer",
+  "Rating": 4.5,
+  "Total_Ratings": "29,800",
+  "No_of_Reviews": " 3,000",
+  "Space": "128 GB ",
+  "Specifications": "13.94 cm (5.488 inch) Retina HD Display12MP + 12MP | 7MP Front CameraApple A10 Fusion 64-bit processor and Embedded M10 Motion Co-processorBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b4b"
+  },
+  "Product_Name": "APPLE iPhone 7 (Silver, 256 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹74,400",
+  "Offer": "No offer",
+  "Rating": 4.5,
+  "Total_Ratings": "94,933",
+  "No_of_Reviews": " 9,226",
+  "Space": "256 GB ",
+  "Specifications": "11.94 cm (4.7 inch) Retina HD Display12MP Rear Camera | 7MP Front CameraA10 Fusion Chip with 64-bit Architecture and Embedded M10 Motion Co-processorBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b4c"
+  },
+  "Product_Name": "APPLE iPhone 8 Plus (Space Grey, 256 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹84,900",
+  "Offer": "No offer",
+  "Rating": 4.6,
+  "Total_Ratings": "3,443",
+  "No_of_Reviews": " 355",
+  "Space": "256 GB ",
+  "Specifications": "13.97 cm (5.5 inch) Retina HD Display12MP + 12MP | 7MP Front CameraA11 Bionic Chip with 64-bit Architecture, Neural Engine, Embedded M11 Motion Coprocessor ProcessorBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b4d"
+  },
+  "Product_Name": "Apple iPhone XR (Coral, 128 GB) (Includes EarPods, Power Adapter)",
+  "Actual_Price": "₹52,900",
+  "Sale_Price": "₹39,999",
+  "Offer": "24% off",
+  "Rating": 4.6,
+  "Total_Ratings": "99,045",
+  "No_of_Reviews": " 8,471",
+  "Space": "128 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Display12MP Rear Camera | 7MP Front CameraA12 Bionic Chip ProcessoriOS 13 CompatibleBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b4e"
+  },
+  "Product_Name": "APPLE iPhone 6 (Gold, 16 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹36,499",
+  "Offer": "No offer",
+  "Rating": 4.4,
+  "Total_Ratings": "1,45,616",
+  "No_of_Reviews": " 16,341",
+  "Space": "16 GB ",
+  "Specifications": "11.94 cm (4.7 inch) Retina HD Display8MP Rear Camera | 1.2MP Front CameraA8 Chip with 64-bit Architecture and M8 Motion Co-processor1 Year Manufacturer Warranty"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b4f"
+  },
+  "Product_Name": "APPLE iPhone X (Silver, 64 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹91,900",
+  "Offer": "No offer",
+  "Rating": 4.6,
+  "Total_Ratings": "10,987",
+  "No_of_Reviews": " 876",
+  "Space": "64 GB ",
+  "Specifications": "14.73 cm (5.8 inch) Super Retina HD Display12MP + 12MP | 7MP Front CameraA11 Bionic Chip with 64-bit Architecture, Neural Engine, Embedded M11 Motion Coprocessor ProcessoriOS 13 CompatibleBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b50"
+  },
+  "Product_Name": "APPLE iPhone 7 Plus (Rose Gold, 128 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹42,900",
+  "Offer": "No offer",
+  "Rating": 4.5,
+  "Total_Ratings": "29,800",
+  "No_of_Reviews": " 3,000",
+  "Space": "128 GB ",
+  "Specifications": "13.94 cm (5.488 inch) Retina HD Display12MP + 12MP | 7MP Front CameraApple A10 Fusion 64-bit processor and Embedded M10 Motion Co-processorBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b51"
+  },
+  "Product_Name": "APPLE iPhone 6s (Space Grey, 16 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹62,000",
+  "Offer": "No offer",
+  "Rating": 4.5,
+  "Total_Ratings": "93,085",
+  "No_of_Reviews": " 9,280",
+  "Space": "16 GB ",
+  "Specifications": "11.94 cm (4.7 inch) Retina HD Display12MP Rear Camera | 5MP Front CameraA9 Chip with 64-bit Architecture and M9 Motion Co-processorBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b52"
+  },
+  "Product_Name": "APPLE iPhone 7 Plus (Red, 128 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹42,900",
+  "Offer": "No offer",
+  "Rating": 4.5,
+  "Total_Ratings": "29,800",
+  "No_of_Reviews": " 3,000",
+  "Space": "128 GB ",
+  "Specifications": "13.94 cm (5.488 inch) Retina HD Display12MP Rear Camera | 7MP Front CameraApple A10 Fusion 64-bit processor and Embedded M10 Motion Co-processorBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b53"
+  },
+  "Product_Name": "Apple iPhone SE (Black, 128 GB) (Includes EarPods, Power Adapter)",
+  "Actual_Price": "₹44,900",
+  "Sale_Price": "₹32,999",
+  "Offer": "26% off",
+  "Rating": 4.5,
+  "Total_Ratings": "1,41,146",
+  "No_of_Reviews": " 11,244",
+  "Space": "128 GB ",
+  "Specifications": "11.94 cm (4.7 inch) Retina HD Display12MP Rear Camera | 7MP Front CameraA13 Bionic Chip with 3rd Gen Neural Engine ProcessorWater and Dust Resistant (1 meter for Upto 30 minutes, IP67)Fast Charge CapableWireless charging (Works with Qi Chargers | Qi Chargers are Sold SeparatelyBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b54"
+  },
+  "Product_Name": "APPLE iPhone 6 (Silver, 64 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹62,000",
+  "Offer": "No offer",
+  "Rating": 4.4,
+  "Total_Ratings": "1,45,616",
+  "No_of_Reviews": " 16,341",
+  "Space": "64 GB ",
+  "Specifications": "11.94 cm (4.7 inch) Retina HD Display8MP Rear Camera | 1.2MP Front CameraA8 Chip with 64-bit Architecture and M8 Motion Co-processor1 Year Manufacturer Warranty"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b55"
+  },
+  "Product_Name": "APPLE iPhone 7 (Red, 128 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹34,900",
+  "Offer": "No offer",
+  "Rating": 4.5,
+  "Total_Ratings": "94,933",
+  "No_of_Reviews": " 9,226",
+  "Space": "128 GB ",
+  "Specifications": "11.94 cm (4.7 inch) Retina HD Display12MP Rear Camera | 7MP Front CameraApple A10 Fusion 64-bit processor and Embedded M10 Motion Co-processorBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b56"
+  },
+  "Product_Name": "Apple iPhone SE (Red, 64 GB) (Includes EarPods, Power Adapter)",
+  "Actual_Price": "₹39,900",
+  "Sale_Price": "₹27,999",
+  "Offer": "29% off",
+  "Rating": 4.5,
+  "Total_Ratings": "1,41,146",
+  "No_of_Reviews": " 11,244",
+  "Space": "64 GB ",
+  "Specifications": "11.94 cm (4.7 inch) Retina HD Display12MP Rear Camera | 7MP Front CameraA13 Bionic Chip with 3rd Gen Neural Engine ProcessorWater and Dust Resistant (1 meter for Upto 30 minutes, IP67)Fast Charge CapableWireless charging (Works with Qi Chargers | Qi Chargers are Sold SeparatelyBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b57"
+  },
+  "Product_Name": "APPLE iPhone X (Space Gray, 64 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹91,900",
+  "Offer": "No offer",
+  "Rating": 4.6,
+  "Total_Ratings": "10,987",
+  "No_of_Reviews": " 876",
+  "Space": "64 GB ",
+  "Specifications": "14.73 cm (5.8 inch) Super Retina HD Display12MP + 12MP | 7MP Front CameraA11 Bionic Chip with 64-bit Architecture, Neural Engine, Embedded M11 Motion Coprocessor ProcessoriOS 13 CompatibleBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b58"
+  },
+  "Product_Name": "APPLE iPhone XR (Yellow, 64 GB)",
+  "Actual_Price": "₹47,900",
+  "Sale_Price": "₹34,999",
+  "Offer": "26% off",
+  "Rating": 4.6,
+  "Total_Ratings": "99,045",
+  "No_of_Reviews": " 8,471",
+  "Space": "64 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Display12MP Rear Camera | 7MP Front CameraA12 Bionic Chip ProcessorBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b59"
+  },
+  "Product_Name": "APPLE iPhone 7 (Black, 256 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹74,400",
+  "Offer": "No offer",
+  "Rating": 4.5,
+  "Total_Ratings": "94,933",
+  "No_of_Reviews": " 9,226",
+  "Space": "256 GB ",
+  "Specifications": "11.94 cm (4.7 inch) Retina HD Display12MP Rear Camera | 7MP Front CameraA10 Fusion Chip with 64-bit Architecture and Embedded M10 Motion Co-processorBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b5a"
+  },
+  "Product_Name": "APPLE iPhone 12 Pro Max (Gold, 128 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹1,19,900",
+  "Offer": "No offer",
+  "Rating": 4.6,
+  "Total_Ratings": "1,202",
+  "No_of_Reviews": " 98",
+  "Space": "128 GB ",
+  "Specifications": "17.02 cm (6.7 inch) Super Retina XDR Display12MP + 12MP + 12MP | 12MP Front CameraA14 Bionic Chip with Next Generation Neural Engine ProcessorCeramic Shield | Industry-leading IP68 Water ResistanceAll Screen OLED DisplayLiDAR Scanner for Improved AR Experiences, Night Mode PortraitsBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b5b"
+  },
+  "Product_Name": "APPLE iPhone 11 Pro (Space Grey, 256 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹1,21,300",
+  "Offer": "No offer",
+  "Rating": 4.6,
+  "Total_Ratings": "8,569",
+  "No_of_Reviews": " 625",
+  "Space": "256 GB ",
+  "Specifications": "14.73 cm (5.8 inch) Super Retina XDR Display12MP + 12MP + 12MP | 12MP Front CameraA13 Bionic Chip ProcessorBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b5c"
+  },
+  "Product_Name": "APPLE iPhone X (Silver, 256 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹1,06,900",
+  "Offer": "No offer",
+  "Rating": 4.6,
+  "Total_Ratings": "10,987",
+  "No_of_Reviews": " 876",
+  "Space": "256 GB ",
+  "Specifications": "14.73 cm (5.8 inch) Super Retina HD Display12MP + 12MP | 7MP Front CameraA11 Bionic Chip with 64-bit Architecture, Neural Engine, Embedded M11 Motion Coprocessor ProcessorBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b5d"
+  },
+  "Product_Name": "Apple iPhone 11 (Red, 64 GB) (Includes EarPods, Power Adapter)",
+  "Actual_Price": "₹49,900",
+  "Sale_Price": "₹46,499",
+  "Offer": "6% off",
+  "Rating": 4.6,
+  "Total_Ratings": "78,000",
+  "No_of_Reviews": " 5,889",
+  "Space": "64 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Liquid Retina HD Display12MP + 12MP | 12MP Front CameraA13 Bionic Chip ProcessorBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b5e"
+  },
+  "Product_Name": "Apple iPhone 11 (Purple, 128 GB) (Includes EarPods, Power Adapter)",
+  "Actual_Price": "₹54,900",
+  "Sale_Price": "₹51,499",
+  "Offer": "6% off",
+  "Rating": 4.6,
+  "Total_Ratings": "78,000",
+  "No_of_Reviews": " 5,889",
+  "Space": "128 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Liquid Retina HD Display12MP + 12MP | 12MP Front CameraA13 Bionic Chip ProcessorBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b5f"
+  },
+  "Product_Name": "Apple iPhone 11 (Black, 128 GB) (Includes EarPods, Power Adapter)",
+  "Actual_Price": "₹54,900",
+  "Sale_Price": "₹51,499",
+  "Offer": "6% off",
+  "Rating": 4.6,
+  "Total_Ratings": "78,000",
+  "No_of_Reviews": " 5,889",
+  "Space": "128 GB ",
+  "Specifications": "15.49 cm (6.1 inch) Liquid Retina HD Display12MP + 12MP | 12MP Front CameraA13 Bionic Chip ProcessorBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b60"
+  },
+  "Product_Name": "APPLE iPhone 11 Pro Max (Silver, 256 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹1,31,900",
+  "Offer": "No offer",
+  "Rating": 4.7,
+  "Total_Ratings": "1,093",
+  "No_of_Reviews": " 100",
+  "Space": "256 GB ",
+  "Specifications": "16.51 cm (6.5 inch) Super Retina XDR Display12MP + 12MP + 12MP | 12MP Front CameraA13 Bionic Chip ProcessorBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b61"
+  },
+  "Product_Name": "APPLE iPhone 6 (Gold, 128 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹49,999",
+  "Offer": "No offer",
+  "Rating": 4.4,
+  "Total_Ratings": "1,45,616",
+  "No_of_Reviews": " 16,341",
+  "Space": "128 GB ",
+  "Specifications": "11.94 cm (4.7 inch) Retina HD Display8MP Rear Camera | 1.2MP Front CameraA8 Chip with 64-bit Architecture and M8 Motion Co-processor1 Year Manufacturer Warranty"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b62"
+  },
+  "Product_Name": "APPLE iPhone 6s (Silver, 128 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹55,999",
+  "Offer": "No offer",
+  "Rating": 4.5,
+  "Total_Ratings": "93,085",
+  "No_of_Reviews": " 9,280",
+  "Space": "128 GB ",
+  "Specifications": "11.94 cm (4.7 inch) Retina HD Display12MP Rear Camera | 5MP Front CameraA9 Chip with 64-bit Architecture and M9 Motion Co-processorBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b63"
+  },
+  "Product_Name": "APPLE iPhone XS (Silver, 256 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹1,03,900",
+  "Offer": "No offer",
+  "Rating": 4.7,
+  "Total_Ratings": "11,960",
+  "No_of_Reviews": " 874",
+  "Space": "256 GB ",
+  "Specifications": "14.73 cm (5.8 inch) Super Retina HD Display12MP + 12MP | 7MP Front CameraA12 Bionic Chip Processor1 Year Limited Warranty for Products and Accessories"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b64"
+  },
+  "Product_Name": "APPLE iPhone 11 Pro (Silver, 64 GB)",
+  "Actual_Price": "₹1,06,600",
+  "Sale_Price": "₹79,999",
+  "Offer": "24% off",
+  "Rating": 4.6,
+  "Total_Ratings": "8,569",
+  "No_of_Reviews": " 625",
+  "Space": "64 GB ",
+  "Specifications": "14.73 cm (5.8 inch) Super Retina XDR Display12MP + 12MP + 12MP | 12MP Front CameraA13 Bionic Chip ProcessorBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b65"
+  },
+  "Product_Name": "APPLE iPhone 11 Pro Max (Gold, 64 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹1,17,100",
+  "Offer": "No offer",
+  "Rating": 4.7,
+  "Total_Ratings": "1,093",
+  "No_of_Reviews": " 100",
+  "Space": "64 GB ",
+  "Specifications": "16.51 cm (6.5 inch) Super Retina XDR Display12MP + 12MP + 12MP | 12MP Front CameraA13 Bionic Chip ProcessorBrand Warranty for 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b66"
+  },
+  "Product_Name": "APPLE iPhone 7 Plus (Silver, 32 GB)",
+  "Actual_Price": "₹37,900",
+  "Sale_Price": "₹36,999",
+  "Offer": "2% off",
+  "Rating": 4.5,
+  "Total_Ratings": "29,800",
+  "No_of_Reviews": " 3,000",
+  "Space": "32 GB ",
+  "Specifications": "13.94 cm (5.488 inch) Retina HD Display12MP + 12MP | 7MP Front CameraApple A10 Fusion 64-bit processor and Embedded M10 Motion Co-processoriOS 13 CompatibleBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b67"
+  },
+  "Product_Name": "APPLE iPhone 7 Plus (Silver, 256 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹85,400",
+  "Offer": "No offer",
+  "Rating": 4.5,
+  "Total_Ratings": "29,800",
+  "No_of_Reviews": " 3,000",
+  "Space": "256 GB ",
+  "Specifications": "13.97 cm (5.5 inch) Retina HD Display12MP + 12MP | 7MP Front CameraApple A10 Fusion 64-bit processor and Embedded M10 Motion Co-processorBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b68"
+  },
+  "Product_Name": "APPLE iPhone 6s (Gold, 64 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹49,999",
+  "Offer": "No offer",
+  "Rating": 4.5,
+  "Total_Ratings": "93,085",
+  "No_of_Reviews": " 9,280",
+  "Space": "64 GB ",
+  "Specifications": "11.94 cm (4.7 inch) Retina HD Display12MP Rear Camera | 5MP Front CameraA9 Chip with 64-bit Architecture and M9 Motion Co-processorBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b69"
+  },
+  "Product_Name": "APPLE iPhone 6s (Space Grey, 64 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹49,999",
+  "Offer": "No offer",
+  "Rating": 4.5,
+  "Total_Ratings": "93,085",
+  "No_of_Reviews": " 9,280",
+  "Space": "64 GB ",
+  "Specifications": "11.94 cm (4.7 inch) Retina HD Display12MP Rear Camera | 5MP Front CameraA9 Chip with 64-bit Architecture and M9 Motion Co-processorBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b6a"
+  },
+  "Product_Name": "APPLE iPhone 6s Plus (Space Grey, 16 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹72,000",
+  "Offer": "No offer",
+  "Rating": 4.4,
+  "Total_Ratings": "18,848",
+  "No_of_Reviews": " 2,392",
+  "Space": "16 GB ",
+  "Specifications": "13.97 cm (5.5 inch) Retina HD Display12MP Rear Camera | 5MP Front CameraApple A9 64-bit processor and Embedded M9 Motion Co-processorBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b6b"
+  },
+  "Product_Name": "APPLE iPhone 6s Plus (Rose Gold, 64 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹59,999",
+  "Offer": "No offer",
+  "Rating": 4.4,
+  "Total_Ratings": "18,848",
+  "No_of_Reviews": " 2,392",
+  "Space": "64 GB ",
+  "Specifications": "13.97 cm (5.5 inch) Retina HD Display12MP Rear Camera | 5MP Front CameraA9 Chip with 64-bit Architecture and M9 Motion Co-processorBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b6c"
+  },
+  "Product_Name": "APPLE iPhone 6s (Silver, 64 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹49,999",
+  "Offer": "No offer",
+  "Rating": 4.5,
+  "Total_Ratings": "93,085",
+  "No_of_Reviews": " 9,280",
+  "Space": "64 GB ",
+  "Specifications": "11.94 cm (4.7 inch) Retina HD Display12MP Rear Camera | 5MP Front CameraA9 Chip with 64-bit Architecture and M9 Motion Co-processorBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b6d"
+  },
+  "Product_Name": "APPLE iPhone XS Max (Silver, 256 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹1,24,900",
+  "Offer": "No offer",
+  "Rating": 4.6,
+  "Total_Ratings": "1,454",
+  "No_of_Reviews": " 149",
+  "Space": "256 GB ",
+  "Specifications": "16.51 cm (6.5 inch) Super Retina HD Display12MP + 12MP | 7MP Front CameraA12 Bionic Chip ProcessoriOS 13 Compatible1 Year Limited Warranty for Products and Accessories"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b6e"
+  },
+  "Product_Name": "APPLE iPhone XS (Silver, 512 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹1,34,900",
+  "Offer": "No offer",
+  "Rating": 4.7,
+  "Total_Ratings": "11,960",
+  "No_of_Reviews": " 874",
+  "Space": "512 GB ",
+  "Specifications": "14.73 cm (5.8 inch) Super Retina HD Display12MP + 12MP | 7MP Front CameraA12 Bionic Chip Processor1 Year Limited Warranty for Products and Accessories"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b6f"
+  },
+  "Product_Name": "APPLE iPhone 7 Plus (PRODUCT) (Red, 256 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹85,400",
+  "Offer": "No offer",
+  "Rating": 5,
+  "Total_Ratings": "3",
+  "No_of_Reviews": " 3",
+  "Space": "256 GB ",
+  "Specifications": "13.97 cm (5.5 inch) Retina HD Display12MP Rear Camera | 7MP Front CameraA10 Fusion Chip with 64-bit Architecture and Embedded M10 Motion Co-processorBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b70"
+  },
+  "Product_Name": "APPLE iPhone XS Max (Gold, 512 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹1,44,900",
+  "Offer": "No offer",
+  "Rating": 4.6,
+  "Total_Ratings": "1,454",
+  "No_of_Reviews": " 149",
+  "Space": "512 GB ",
+  "Specifications": "16.51 cm (6.5 inch) Super Retina HD Display12MP + 12MP | 7MP Front CameraA12 Bionic Chip Processor1 Year Limited Warranty for Products and Accessories"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b71"
+  },
+  "Product_Name": "APPLE iPhone 7 (Rose Gold, 256 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹74,400",
+  "Offer": "No offer",
+  "Rating": 4.5,
+  "Total_Ratings": "94,933",
+  "No_of_Reviews": " 9,226",
+  "Space": "256 GB ",
+  "Specifications": "11.94 cm (4.7 inch) Retina HD Display12MP Rear Camera | 7MP Front CameraA10 Fusion Chip with 64-bit Architecture and Embedded M10 Motion Co-processorBrand Warranty of 1 Year"
+},{
+  "_id": {
+    "$oid": "61f629ed99d87cbb5ac99b72"
+  },
+  "Product_Name": "APPLE iPhone 8 Plus (PRODUCT)RED (Red, 64 GB)",
+  "Actual_Price": "Same Price",
+  "Sale_Price": "₹49,900",
+  "Offer": "No offer",
+  "Rating": 4.6,
+  "Total_Ratings": "270",
+  "No_of_Reviews": " 22",
+  "Space": "64 GB ",
+  "Specifications": "13.97 cm (5.5 inch) Retina HD Display12MP + 12MP | 7MP Front CameraA11 Bionic Chip with 64-bit Architecture, Neural Engine, Embedded M11 Motion Coprocessor ProcessorBrand Warranty of 1 Year"
+}]
